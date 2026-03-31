@@ -750,6 +750,23 @@ async function main() {
 
 	await fs.writeFile("prices.json", JSON.stringify(output, null, 2), "utf8");
 	console.log("prices.json yazildi.");
+
+	// allprices.json dosyasını güncelle (geçmiş veriler)
+	let allPrices = [];
+	try {
+		const allPricesData = await fs.readFile("allprices.json", "utf8");
+		allPrices = JSON.parse(allPricesData);
+	} catch (error) {
+		// Dosya yoksa veya hata varsa boş array ile başla
+		allPrices = [];
+	}
+
+	// Yeni veriyi allprices'e ekle
+	allPrices.push(output);
+
+	// allprices.json dosyasını kaydet
+	await fs.writeFile("allprices.json", JSON.stringify(allPrices, null, 2), "utf8");
+	console.log("allprices.json güncellendi.");
 }
 
 main().catch((error) => {
