@@ -150288,5 +150288,2152 @@
         }
       }
     ]
+  },
+  {
+    "generatedAt": {
+      "day": "03",
+      "month": "04",
+      "year": "2026",
+      "hour": "23",
+      "minute": "25",
+      "second": "13",
+      "formatted": "03.04.2026 23:25:13"
+    },
+    "provinces": [
+      {
+        "provinceCode": "001",
+        "provinceName": "ADANA",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.41,
+            "dieselAmount": 79.43,
+            "lpgAmount": 35.57
+          },
+          "opet": {
+            "gasolineAmount": 64.38,
+            "dieselAmount": 79.4,
+            "lpgAmount": 44.67
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.41,
+            "dieselAmount": 79.44,
+            "lpgAmount": 35.31
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.39,
+            "dieselAmount": 79.41,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "002",
+        "provinceName": "ADIYAMAN",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.73,
+            "dieselAmount": 79.78,
+            "lpgAmount": 35.87
+          },
+          "opet": {
+            "gasolineAmount": 64.72,
+            "dieselAmount": 79.77,
+            "lpgAmount": 44.7
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.74,
+            "dieselAmount": 79.78,
+            "lpgAmount": 35.44
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.75,
+            "dieselAmount": 79.78,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "003",
+        "provinceName": "AFYON",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.62,
+            "dieselAmount": 79.78,
+            "lpgAmount": 36.99
+          },
+          "opet": {
+            "gasolineAmount": 64.6,
+            "dieselAmount": 79.76,
+            "lpgAmount": 44.62
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.67,
+            "dieselAmount": 79.79,
+            "lpgAmount": 34.84
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.61,
+            "dieselAmount": 79.77,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "004",
+        "provinceName": "AGRI",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 65.07,
+            "dieselAmount": 80.09,
+            "lpgAmount": 39.06
+          },
+          "opet": {
+            "gasolineAmount": 64.89,
+            "dieselAmount": 79.93,
+            "lpgAmount": 44.68
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 65.12,
+            "dieselAmount": 80.14,
+            "lpgAmount": 36.09
+          },
+          "totalEnergies": {
+            "gasolineAmount": 65.11,
+            "dieselAmount": 80.1,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "068",
+        "provinceName": "AKSARAY",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.46,
+            "dieselAmount": 79.48,
+            "lpgAmount": 36.24
+          },
+          "opet": {
+            "gasolineAmount": 64.45,
+            "dieselAmount": 79.47,
+            "lpgAmount": 44.65
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.48,
+            "dieselAmount": 79.51,
+            "lpgAmount": 34.71
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.49,
+            "dieselAmount": 79.48,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "005",
+        "provinceName": "AMASYA",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.15,
+            "dieselAmount": 79.16,
+            "lpgAmount": 36.3
+          },
+          "opet": {
+            "gasolineAmount": 64.14,
+            "dieselAmount": 79.15,
+            "lpgAmount": 44.62
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.16,
+            "dieselAmount": 79.17,
+            "lpgAmount": 35.49
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.15,
+            "dieselAmount": 79.16,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "006",
+        "provinceName": "ANKARA",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 63.56,
+            "dieselAmount": 78.59,
+            "lpgAmount": 36.3
+          },
+          "opet": {
+            "gasolineAmount": 63.54,
+            "dieselAmount": 78.57,
+            "lpgAmount": 44.58
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 63.57,
+            "dieselAmount": 78.6,
+            "lpgAmount": 34.87
+          },
+          "totalEnergies": {
+            "gasolineAmount": 63.55,
+            "dieselAmount": 78.58,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "007",
+        "provinceName": "ANTALYA",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.8,
+            "dieselAmount": 79.92,
+            "lpgAmount": 37.01
+          },
+          "opet": {
+            "gasolineAmount": 64.76,
+            "dieselAmount": 79.88,
+            "lpgAmount": 44.6
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.8,
+            "dieselAmount": 79.92,
+            "lpgAmount": 35.04
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.81,
+            "dieselAmount": 79.93,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "075",
+        "provinceName": "ARDAHAN",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.62,
+            "dieselAmount": 79.66,
+            "lpgAmount": 38.77
+          },
+          "opet": {
+            "gasolineAmount": 64.61,
+            "dieselAmount": 79.64,
+            "lpgAmount": 44.65
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.63,
+            "dieselAmount": 79.65,
+            "lpgAmount": 35.79
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.62,
+            "dieselAmount": 79.65,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "008",
+        "provinceName": "ARTVIN",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.45,
+            "dieselAmount": 79.46,
+            "lpgAmount": 37.35
+          },
+          "opet": {
+            "gasolineAmount": 64.44,
+            "dieselAmount": 79.45,
+            "lpgAmount": 44.63
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.44,
+            "dieselAmount": 79.46,
+            "lpgAmount": 36.34
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.45,
+            "dieselAmount": 79.46,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "009",
+        "provinceName": "AYDIN",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.06,
+            "dieselAmount": 79.1,
+            "lpgAmount": 35.78
+          },
+          "opet": {
+            "gasolineAmount": 64.04,
+            "dieselAmount": 79.08,
+            "lpgAmount": 44.59
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.08,
+            "dieselAmount": 79.1,
+            "lpgAmount": 34.94
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.05,
+            "dieselAmount": 79.09,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "010",
+        "provinceName": "BALIKESIR",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.16,
+            "dieselAmount": 79.19,
+            "lpgAmount": 35.79
+          },
+          "opet": {
+            "gasolineAmount": 64.14,
+            "dieselAmount": 79.17,
+            "lpgAmount": 44.59
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.15,
+            "dieselAmount": 79.17,
+            "lpgAmount": 34.49
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.13,
+            "dieselAmount": 79.16,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "074",
+        "provinceName": "BARTIN",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 63.88,
+            "dieselAmount": 78.72,
+            "lpgAmount": 36.03
+          },
+          "opet": {
+            "gasolineAmount": 63.86,
+            "dieselAmount": 78.7,
+            "lpgAmount": 44.62
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 63.88,
+            "dieselAmount": 78.7,
+            "lpgAmount": 34.55
+          },
+          "totalEnergies": {
+            "gasolineAmount": 63.87,
+            "dieselAmount": 78.71,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "072",
+        "provinceName": "BATMAN",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 65.03,
+            "dieselAmount": 80.16,
+            "lpgAmount": 37.17
+          },
+          "opet": {
+            "gasolineAmount": 65.02,
+            "dieselAmount": 80.15,
+            "lpgAmount": 44.69
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 65.04,
+            "dieselAmount": 80.17,
+            "lpgAmount": 35.44
+          },
+          "totalEnergies": {
+            "gasolineAmount": 65.03,
+            "dieselAmount": 80.16,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "069",
+        "provinceName": "BAYBURT",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.32,
+            "dieselAmount": 79.34,
+            "lpgAmount": 37.04
+          },
+          "opet": {
+            "gasolineAmount": 64.31,
+            "dieselAmount": 79.33,
+            "lpgAmount": 44.63
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.34,
+            "dieselAmount": 79.36,
+            "lpgAmount": 35.69
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.32,
+            "dieselAmount": 79.34,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "011",
+        "provinceName": "BILECIK",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 63.52,
+            "dieselAmount": 78.33,
+            "lpgAmount": 35.94
+          },
+          "opet": {
+            "gasolineAmount": 63.51,
+            "dieselAmount": 78.32,
+            "lpgAmount": 44.59
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 63.53,
+            "dieselAmount": 78.35,
+            "lpgAmount": 34.39
+          },
+          "totalEnergies": {
+            "gasolineAmount": 63.52,
+            "dieselAmount": 78.33,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "012",
+        "provinceName": "BINGOL",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 65.09,
+            "dieselAmount": 80.22,
+            "lpgAmount": 38.33
+          },
+          "opet": {
+            "gasolineAmount": 65.06,
+            "dieselAmount": 80.21,
+            "lpgAmount": 44.7
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 65.16,
+            "dieselAmount": 80.29,
+            "lpgAmount": 35.69
+          },
+          "totalEnergies": {
+            "gasolineAmount": 65.09,
+            "dieselAmount": 80.23,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "013",
+        "provinceName": "BITLIS",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 65.15,
+            "dieselAmount": 80.33,
+            "lpgAmount": 38.36
+          },
+          "opet": {
+            "gasolineAmount": 65.13,
+            "dieselAmount": 80.3,
+            "lpgAmount": 44.71
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 65.16,
+            "dieselAmount": 80.29,
+            "lpgAmount": 35.51
+          },
+          "totalEnergies": {
+            "gasolineAmount": 65.14,
+            "dieselAmount": 80.31,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "014",
+        "provinceName": "BOLU",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 63.64,
+            "dieselAmount": 78.44,
+            "lpgAmount": 35.82
+          },
+          "opet": {
+            "gasolineAmount": 63.63,
+            "dieselAmount": 78.44,
+            "lpgAmount": 44.6
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 63.64,
+            "dieselAmount": 78.45,
+            "lpgAmount": 34.7
+          },
+          "totalEnergies": {
+            "gasolineAmount": 63.64,
+            "dieselAmount": 78.45,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "015",
+        "provinceName": "BURDUR",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.61,
+            "dieselAmount": 79.73,
+            "lpgAmount": 36.62
+          },
+          "opet": {
+            "gasolineAmount": 64.6,
+            "dieselAmount": 79.72,
+            "lpgAmount": 44.61
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.62,
+            "dieselAmount": 79.74,
+            "lpgAmount": 34.99
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.6,
+            "dieselAmount": 79.72,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "016",
+        "provinceName": "BURSA",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 63.64,
+            "dieselAmount": 78.47,
+            "lpgAmount": 36.02
+          },
+          "opet": {
+            "gasolineAmount": 63.63,
+            "dieselAmount": 78.46,
+            "lpgAmount": 44.59
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 63.65,
+            "dieselAmount": 78.47,
+            "lpgAmount": 34.39
+          },
+          "totalEnergies": {
+            "gasolineAmount": 63.64,
+            "dieselAmount": 78.47,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "017",
+        "provinceName": "CANAKKALE",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.21,
+            "dieselAmount": 79.22,
+            "lpgAmount": 36.23
+          },
+          "opet": {
+            "gasolineAmount": 64.2,
+            "dieselAmount": 79.21,
+            "lpgAmount": 44.61
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.2,
+            "dieselAmount": 79.22,
+            "lpgAmount": 34.59
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.2,
+            "dieselAmount": 79.21,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "018",
+        "provinceName": "CANKIRI",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 63.97,
+            "dieselAmount": 79,
+            "lpgAmount": 36.55
+          },
+          "opet": {
+            "gasolineAmount": 63.95,
+            "dieselAmount": 78.98,
+            "lpgAmount": 44.59
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 63.99,
+            "dieselAmount": 79.01,
+            "lpgAmount": 35.1
+          },
+          "totalEnergies": {
+            "gasolineAmount": 63.96,
+            "dieselAmount": 78.99,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "019",
+        "provinceName": "CORUM",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.16,
+            "dieselAmount": 79.16,
+            "lpgAmount": 36.73
+          },
+          "opet": {
+            "gasolineAmount": 64.15,
+            "dieselAmount": 79.15,
+            "lpgAmount": 44.6
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.16,
+            "dieselAmount": 79.18,
+            "lpgAmount": 35.04
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.16,
+            "dieselAmount": 79.16,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "020",
+        "provinceName": "DENIZLI",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.28,
+            "dieselAmount": 79.37,
+            "lpgAmount": 36.18
+          },
+          "opet": {
+            "gasolineAmount": 64.27,
+            "dieselAmount": 79.36,
+            "lpgAmount": 44.6
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.33,
+            "dieselAmount": 79.35,
+            "lpgAmount": 34.69
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.29,
+            "dieselAmount": 79.38,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "021",
+        "provinceName": "DIYARBAKIR",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 65.03,
+            "dieselAmount": 80.17,
+            "lpgAmount": 36.72
+          },
+          "opet": {
+            "gasolineAmount": 65.01,
+            "dieselAmount": 80.15,
+            "lpgAmount": 44.68
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 65.05,
+            "dieselAmount": 80.18,
+            "lpgAmount": 35.56
+          },
+          "totalEnergies": {
+            "gasolineAmount": 65.02,
+            "dieselAmount": 80.16,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "081",
+        "provinceName": "DUZCE",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 63.48,
+            "dieselAmount": 78.29,
+            "lpgAmount": 35.22
+          },
+          "opet": {
+            "gasolineAmount": 63.47,
+            "dieselAmount": 78.29,
+            "lpgAmount": 44.59
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 63.48,
+            "dieselAmount": 78.3,
+            "lpgAmount": 34.55
+          },
+          "totalEnergies": {
+            "gasolineAmount": 63.48,
+            "dieselAmount": 78.3,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "022",
+        "provinceName": "EDIRNE",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 63.68,
+            "dieselAmount": 78.74,
+            "lpgAmount": 36.2
+          },
+          "opet": {
+            "gasolineAmount": 63.67,
+            "dieselAmount": 78.72,
+            "lpgAmount": 44.65
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 63.7,
+            "dieselAmount": 78.74,
+            "lpgAmount": 35.09
+          },
+          "totalEnergies": {
+            "gasolineAmount": 63.68,
+            "dieselAmount": 78.73,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "023",
+        "provinceName": "ELAZIG",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 65.13,
+            "dieselAmount": 80.28,
+            "lpgAmount": 37.02
+          },
+          "opet": {
+            "gasolineAmount": 65.13,
+            "dieselAmount": 80.28,
+            "lpgAmount": 44.73
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 65.16,
+            "dieselAmount": 80.29,
+            "lpgAmount": 35.31
+          },
+          "totalEnergies": {
+            "gasolineAmount": 65.14,
+            "dieselAmount": 80.29,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "024",
+        "provinceName": "ERZINCAN",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.57,
+            "dieselAmount": 79.6,
+            "lpgAmount": 37.97
+          },
+          "opet": {
+            "gasolineAmount": 64.55,
+            "dieselAmount": 79.57,
+            "lpgAmount": 44.64
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.58,
+            "dieselAmount": 79.6,
+            "lpgAmount": 35.69
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.56,
+            "dieselAmount": 79.58,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "025",
+        "provinceName": "ERZURUM",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.62,
+            "dieselAmount": 79.67,
+            "lpgAmount": 38.28
+          },
+          "opet": {
+            "gasolineAmount": 64.6,
+            "dieselAmount": 79.63,
+            "lpgAmount": 44.65
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.63,
+            "dieselAmount": 79.65,
+            "lpgAmount": 35.49
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.61,
+            "dieselAmount": 79.64,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "026",
+        "provinceName": "ESKISEHIR",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 63.83,
+            "dieselAmount": 78.66,
+            "lpgAmount": 36.4
+          },
+          "opet": {
+            "gasolineAmount": 63.82,
+            "dieselAmount": 78.65,
+            "lpgAmount": 44.61
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 63.85,
+            "dieselAmount": 78.67,
+            "lpgAmount": 34.49
+          },
+          "totalEnergies": {
+            "gasolineAmount": 63.83,
+            "dieselAmount": 78.66,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "027",
+        "provinceName": "GAZIANTEP",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.53,
+            "dieselAmount": 79.57,
+            "lpgAmount": 35.67
+          },
+          "opet": {
+            "gasolineAmount": 64.52,
+            "dieselAmount": 79.53,
+            "lpgAmount": 44.68
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.53,
+            "dieselAmount": 79.57,
+            "lpgAmount": 35.01
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.53,
+            "dieselAmount": 79.54,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "028",
+        "provinceName": "GIRESUN",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.38,
+            "dieselAmount": 79.42,
+            "lpgAmount": 36.4
+          },
+          "opet": {
+            "gasolineAmount": 64.36,
+            "dieselAmount": 79.39,
+            "lpgAmount": 44.62
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.38,
+            "dieselAmount": 79.4,
+            "lpgAmount": 35.49
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.37,
+            "dieselAmount": 79.4,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "029",
+        "provinceName": "GUMUSHANE",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.33,
+            "dieselAmount": 79.35,
+            "lpgAmount": 36.63
+          },
+          "opet": {
+            "gasolineAmount": 64.32,
+            "dieselAmount": 79.33,
+            "lpgAmount": 44.62
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.34,
+            "dieselAmount": 79.36,
+            "lpgAmount": 35.59
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.33,
+            "dieselAmount": 79.34,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "030",
+        "provinceName": "HAKKARI",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 65.14,
+            "dieselAmount": 80.3,
+            "lpgAmount": null
+          },
+          "opet": {
+            "gasolineAmount": 65.14,
+            "dieselAmount": 80.3,
+            "lpgAmount": 44.92
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 65.2,
+            "dieselAmount": 80.33,
+            "lpgAmount": 36.17
+          },
+          "totalEnergies": {
+            "gasolineAmount": 65.17,
+            "dieselAmount": 80.31,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "031",
+        "provinceName": "HATAY",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.27,
+            "dieselAmount": 79.31,
+            "lpgAmount": 35.67
+          },
+          "opet": {
+            "gasolineAmount": 64.25,
+            "dieselAmount": 79.29,
+            "lpgAmount": 44.66
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.26,
+            "dieselAmount": 79.3,
+            "lpgAmount": 35.11
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.26,
+            "dieselAmount": 79.3,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "076",
+        "provinceName": "IGDIR",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 65.08,
+            "dieselAmount": 80.1,
+            "lpgAmount": 39.22
+          },
+          "opet": {
+            "gasolineAmount": 64.86,
+            "dieselAmount": 79.92,
+            "lpgAmount": 44.7
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 65.13,
+            "dieselAmount": 80.15,
+            "lpgAmount": 36.09
+          },
+          "totalEnergies": {
+            "gasolineAmount": null,
+            "dieselAmount": null,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "032",
+        "provinceName": "ISPARTA",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.63,
+            "dieselAmount": 79.82,
+            "lpgAmount": 36.64
+          },
+          "opet": {
+            "gasolineAmount": 64.6,
+            "dieselAmount": 79.78,
+            "lpgAmount": 44.62
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.66,
+            "dieselAmount": 79.78,
+            "lpgAmount": 34.94
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.61,
+            "dieselAmount": 79.8,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "034",
+        "provinceName": "ISTANBUL ANADOLU",
+        "districtName": "ANADOLU",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 62.59,
+            "dieselAmount": 77.45,
+            "lpgAmount": 36.15
+          },
+          "opet": {
+            "gasolineAmount": 62.44,
+            "dieselAmount": 77.33,
+            "lpgAmount": 44.67
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 62.45,
+            "dieselAmount": 77.32,
+            "lpgAmount": 34.39
+          },
+          "totalEnergies": {
+            "gasolineAmount": 62.6,
+            "dieselAmount": 77.47,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "034",
+        "provinceName": "ISTANBUL AVRUPA",
+        "districtName": "AVRUPA",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 62.59,
+            "dieselAmount": 77.45,
+            "lpgAmount": 36.15
+          },
+          "opet": {
+            "gasolineAmount": 62.59,
+            "dieselAmount": 77.45,
+            "lpgAmount": 44.63
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 62.6,
+            "dieselAmount": 77.47,
+            "lpgAmount": 34.99
+          },
+          "totalEnergies": {
+            "gasolineAmount": 62.6,
+            "dieselAmount": 77.47,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "035",
+        "provinceName": "IZMIR",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 63.84,
+            "dieselAmount": 78.86,
+            "lpgAmount": 36.11
+          },
+          "opet": {
+            "gasolineAmount": 63.83,
+            "dieselAmount": 78.85,
+            "lpgAmount": 44.57
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 63.85,
+            "dieselAmount": 78.87,
+            "lpgAmount": 34.79
+          },
+          "totalEnergies": {
+            "gasolineAmount": 63.83,
+            "dieselAmount": 78.85,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "046",
+        "provinceName": "K.MARAS",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.52,
+            "dieselAmount": 79.59,
+            "lpgAmount": 35.7
+          },
+          "opet": {
+            "gasolineAmount": 64.5,
+            "dieselAmount": 79.56,
+            "lpgAmount": 44.67
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.54,
+            "dieselAmount": 79.58,
+            "lpgAmount": 35.14
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.53,
+            "dieselAmount": 79.59,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "078",
+        "provinceName": "KARABUK",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 63.89,
+            "dieselAmount": 78.73,
+            "lpgAmount": 35.93
+          },
+          "opet": {
+            "gasolineAmount": 63.88,
+            "dieselAmount": 78.71,
+            "lpgAmount": 44.62
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 63.9,
+            "dieselAmount": 78.72,
+            "lpgAmount": 34.55
+          },
+          "totalEnergies": {
+            "gasolineAmount": 63.88,
+            "dieselAmount": 78.71,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "070",
+        "provinceName": "KARAMAN",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.45,
+            "dieselAmount": 79.47,
+            "lpgAmount": 36.16
+          },
+          "opet": {
+            "gasolineAmount": 64.43,
+            "dieselAmount": 79.47,
+            "lpgAmount": 44.72
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.47,
+            "dieselAmount": 79.5,
+            "lpgAmount": 35.41
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.44,
+            "dieselAmount": 79.5,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "036",
+        "provinceName": "KARS",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.62,
+            "dieselAmount": 79.64,
+            "lpgAmount": 38.72
+          },
+          "opet": {
+            "gasolineAmount": 64.61,
+            "dieselAmount": 79.63,
+            "lpgAmount": 44.67
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.64,
+            "dieselAmount": 79.66,
+            "lpgAmount": 35.89
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.62,
+            "dieselAmount": 79.64,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "037",
+        "provinceName": "KASTAMONU",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.26,
+            "dieselAmount": 79.26,
+            "lpgAmount": 37.57
+          },
+          "opet": {
+            "gasolineAmount": 64.25,
+            "dieselAmount": 79.25,
+            "lpgAmount": 44.64
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.26,
+            "dieselAmount": 79.28,
+            "lpgAmount": 35.55
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.26,
+            "dieselAmount": 79.25,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "038",
+        "provinceName": "KAYSERI",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.56,
+            "dieselAmount": 79.59,
+            "lpgAmount": 36.16
+          },
+          "opet": {
+            "gasolineAmount": 64.55,
+            "dieselAmount": 79.58,
+            "lpgAmount": 44.7
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.57,
+            "dieselAmount": 79.6,
+            "lpgAmount": 34.81
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.57,
+            "dieselAmount": 79.6,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "079",
+        "provinceName": "KILIS",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.25,
+            "dieselAmount": 79.31,
+            "lpgAmount": 35.27
+          },
+          "opet": {
+            "gasolineAmount": 64.25,
+            "dieselAmount": 79.3,
+            "lpgAmount": 44.67
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.28,
+            "dieselAmount": 79.32,
+            "lpgAmount": 35.31
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.26,
+            "dieselAmount": 79.31,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "071",
+        "provinceName": "KIRIKKALE",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 63.86,
+            "dieselAmount": 78.89,
+            "lpgAmount": 36.09
+          },
+          "opet": {
+            "gasolineAmount": 63.85,
+            "dieselAmount": 78.87,
+            "lpgAmount": 44.57
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 63.87,
+            "dieselAmount": 78.89,
+            "lpgAmount": 34.72
+          },
+          "totalEnergies": {
+            "gasolineAmount": 63.86,
+            "dieselAmount": 78.9,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "039",
+        "provinceName": "KIRKLARELI",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 63.66,
+            "dieselAmount": 78.71,
+            "lpgAmount": 36.35
+          },
+          "opet": {
+            "gasolineAmount": 63.66,
+            "dieselAmount": 78.7,
+            "lpgAmount": 44.65
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 63.69,
+            "dieselAmount": 78.73,
+            "lpgAmount": 34.99
+          },
+          "totalEnergies": {
+            "gasolineAmount": 63.67,
+            "dieselAmount": 78.71,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "040",
+        "provinceName": "KIRSEHIR",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 63.9,
+            "dieselAmount": 78.94,
+            "lpgAmount": 36.41
+          },
+          "opet": {
+            "gasolineAmount": 63.89,
+            "dieselAmount": 78.93,
+            "lpgAmount": 44.59
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 63.93,
+            "dieselAmount": 78.95,
+            "lpgAmount": 34.82
+          },
+          "totalEnergies": {
+            "gasolineAmount": 63.89,
+            "dieselAmount": 78.94,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "041",
+        "provinceName": "KOCAELI",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 63,
+            "dieselAmount": 77.83,
+            "lpgAmount": 35.73
+          },
+          "opet": {
+            "gasolineAmount": 62.99,
+            "dieselAmount": 77.82,
+            "lpgAmount": 44.57
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 63.02,
+            "dieselAmount": 77.84,
+            "lpgAmount": 34.19
+          },
+          "totalEnergies": {
+            "gasolineAmount": 63.01,
+            "dieselAmount": 77.84,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "042",
+        "provinceName": "KONYA",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.58,
+            "dieselAmount": 79.76,
+            "lpgAmount": 36.51
+          },
+          "opet": {
+            "gasolineAmount": 64.56,
+            "dieselAmount": 79.73,
+            "lpgAmount": 44.67
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.58,
+            "dieselAmount": 79.76,
+            "lpgAmount": 34.91
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.58,
+            "dieselAmount": 79.76,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "043",
+        "provinceName": "KUTAHYA",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.52,
+            "dieselAmount": 79.38,
+            "lpgAmount": 36.22
+          },
+          "opet": {
+            "gasolineAmount": 64.47,
+            "dieselAmount": 79.33,
+            "lpgAmount": 44.61
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.5,
+            "dieselAmount": 79.36,
+            "lpgAmount": 34.94
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.49,
+            "dieselAmount": 79.35,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "044",
+        "provinceName": "MALATYA",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.73,
+            "dieselAmount": 79.78,
+            "lpgAmount": 36.16
+          },
+          "opet": {
+            "gasolineAmount": 64.72,
+            "dieselAmount": 79.76,
+            "lpgAmount": 44.71
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.75,
+            "dieselAmount": 79.79,
+            "lpgAmount": 35.47
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.74,
+            "dieselAmount": 79.77,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "045",
+        "provinceName": "MANISA",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 63.92,
+            "dieselAmount": 78.93,
+            "lpgAmount": 35.94
+          },
+          "opet": {
+            "gasolineAmount": 63.91,
+            "dieselAmount": 78.92,
+            "lpgAmount": 44.57
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 63.93,
+            "dieselAmount": 78.95,
+            "lpgAmount": 34.84
+          },
+          "totalEnergies": {
+            "gasolineAmount": 63.92,
+            "dieselAmount": 78.93,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "047",
+        "provinceName": "MARDIN",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 65.04,
+            "dieselAmount": 80.17,
+            "lpgAmount": 37.06
+          },
+          "opet": {
+            "gasolineAmount": 65.03,
+            "dieselAmount": 80.16,
+            "lpgAmount": 44.73
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 65.08,
+            "dieselAmount": 80.21,
+            "lpgAmount": 35.44
+          },
+          "totalEnergies": {
+            "gasolineAmount": 65.05,
+            "dieselAmount": 80.17,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "033",
+        "provinceName": "MERSIN",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.4,
+            "dieselAmount": 79.42,
+            "lpgAmount": 36.1
+          },
+          "opet": {
+            "gasolineAmount": 64.37,
+            "dieselAmount": 79.39,
+            "lpgAmount": 44.69
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.4,
+            "dieselAmount": 79.43,
+            "lpgAmount": 35.61
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.41,
+            "dieselAmount": 79.43,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "048",
+        "provinceName": "MUGLA",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.32,
+            "dieselAmount": 79.37,
+            "lpgAmount": 37.72
+          },
+          "opet": {
+            "gasolineAmount": 64.31,
+            "dieselAmount": 79.35,
+            "lpgAmount": 44.61
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.34,
+            "dieselAmount": 79.36,
+            "lpgAmount": 34.84
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.33,
+            "dieselAmount": 79.37,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "049",
+        "provinceName": "MUS",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 65.09,
+            "dieselAmount": 80.23,
+            "lpgAmount": 38.22
+          },
+          "opet": {
+            "gasolineAmount": 65.08,
+            "dieselAmount": 80.22,
+            "lpgAmount": 44.77
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 65.16,
+            "dieselAmount": 80.29,
+            "lpgAmount": 35.78
+          },
+          "totalEnergies": {
+            "gasolineAmount": 65.09,
+            "dieselAmount": 80.23,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "050",
+        "provinceName": "NEVSEHIR",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.47,
+            "dieselAmount": 79.51,
+            "lpgAmount": 36.34
+          },
+          "opet": {
+            "gasolineAmount": 64.45,
+            "dieselAmount": 79.49,
+            "lpgAmount": 44.69
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.47,
+            "dieselAmount": 79.5,
+            "lpgAmount": 34.91
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.46,
+            "dieselAmount": 79.5,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "051",
+        "provinceName": "NIGDE",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.38,
+            "dieselAmount": 79.4,
+            "lpgAmount": 35.8
+          },
+          "opet": {
+            "gasolineAmount": 64.37,
+            "dieselAmount": 79.4,
+            "lpgAmount": 44.67
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.42,
+            "dieselAmount": 79.45,
+            "lpgAmount": 34.71
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.38,
+            "dieselAmount": 79.41,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "052",
+        "provinceName": "ORDU",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.17,
+            "dieselAmount": 79.16,
+            "lpgAmount": 36.28
+          },
+          "opet": {
+            "gasolineAmount": 64.16,
+            "dieselAmount": 79.15,
+            "lpgAmount": 44.62
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.17,
+            "dieselAmount": 79.18,
+            "lpgAmount": 35.09
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.18,
+            "dieselAmount": 79.16,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "080",
+        "provinceName": "OSMANIYE",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.25,
+            "dieselAmount": 79.29,
+            "lpgAmount": 34.71
+          },
+          "opet": {
+            "gasolineAmount": 64.24,
+            "dieselAmount": 79.29,
+            "lpgAmount": 44.66
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.27,
+            "dieselAmount": 79.31,
+            "lpgAmount": 35.44
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.25,
+            "dieselAmount": 79.3,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "053",
+        "provinceName": "RIZE",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.32,
+            "dieselAmount": 79.33,
+            "lpgAmount": 37.22
+          },
+          "opet": {
+            "gasolineAmount": 64.3,
+            "dieselAmount": 79.31,
+            "lpgAmount": 44.61
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.32,
+            "dieselAmount": 79.34,
+            "lpgAmount": 35.59
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.33,
+            "dieselAmount": 79.33,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "054",
+        "provinceName": "SAKARYA",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 63.32,
+            "dieselAmount": 78.13,
+            "lpgAmount": 35.83
+          },
+          "opet": {
+            "gasolineAmount": 63.31,
+            "dieselAmount": 78.12,
+            "lpgAmount": 44.58
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 63.32,
+            "dieselAmount": 78.14,
+            "lpgAmount": 34.29
+          },
+          "totalEnergies": {
+            "gasolineAmount": 63.33,
+            "dieselAmount": 78.14,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "055",
+        "provinceName": "SAMSUN",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.15,
+            "dieselAmount": 79.16,
+            "lpgAmount": 36.37
+          },
+          "opet": {
+            "gasolineAmount": 64.13,
+            "dieselAmount": 79.14,
+            "lpgAmount": 44.6
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.15,
+            "dieselAmount": 79.16,
+            "lpgAmount": 35.09
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.15,
+            "dieselAmount": 79.15,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "063",
+        "provinceName": "SANLIURFA",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.72,
+            "dieselAmount": 79.76,
+            "lpgAmount": 36.56
+          },
+          "opet": {
+            "gasolineAmount": 64.7,
+            "dieselAmount": 79.74,
+            "lpgAmount": 44.7
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.73,
+            "dieselAmount": 79.77,
+            "lpgAmount": 35.46
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.71,
+            "dieselAmount": 79.75,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "056",
+        "provinceName": "SIIRT",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 65.06,
+            "dieselAmount": 80.2,
+            "lpgAmount": 37.33
+          },
+          "opet": {
+            "gasolineAmount": 65.06,
+            "dieselAmount": 80.19,
+            "lpgAmount": 44.71
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 65.07,
+            "dieselAmount": 80.2,
+            "lpgAmount": 35.64
+          },
+          "totalEnergies": {
+            "gasolineAmount": 65.07,
+            "dieselAmount": 80.2,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "057",
+        "provinceName": "SINOP",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.2,
+            "dieselAmount": 79.22,
+            "lpgAmount": 36.74
+          },
+          "opet": {
+            "gasolineAmount": 64.19,
+            "dieselAmount": 79.2,
+            "lpgAmount": 44.62
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.21,
+            "dieselAmount": 79.22,
+            "lpgAmount": 35.59
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.2,
+            "dieselAmount": 79.21,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "073",
+        "provinceName": "SIRNAK",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 65.11,
+            "dieselAmount": 80.25,
+            "lpgAmount": 37.58
+          },
+          "opet": {
+            "gasolineAmount": 65.11,
+            "dieselAmount": 80.25,
+            "lpgAmount": 44.71
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 65.16,
+            "dieselAmount": 80.29,
+            "lpgAmount": 35.75
+          },
+          "totalEnergies": {
+            "gasolineAmount": 65.12,
+            "dieselAmount": 80.26,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "058",
+        "provinceName": "SIVAS",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.58,
+            "dieselAmount": 79.59,
+            "lpgAmount": 37.54
+          },
+          "opet": {
+            "gasolineAmount": 64.55,
+            "dieselAmount": 79.56,
+            "lpgAmount": 44.65
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.57,
+            "dieselAmount": 79.59,
+            "lpgAmount": 35.39
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.55,
+            "dieselAmount": 79.56,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "059",
+        "provinceName": "TEKIRDAG",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 63.27,
+            "dieselAmount": 78.31,
+            "lpgAmount": 35.9
+          },
+          "opet": {
+            "gasolineAmount": 63.26,
+            "dieselAmount": 78.3,
+            "lpgAmount": 44.63
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 63.28,
+            "dieselAmount": 78.32,
+            "lpgAmount": 34.79
+          },
+          "totalEnergies": {
+            "gasolineAmount": 63.28,
+            "dieselAmount": 78.32,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "060",
+        "provinceName": "TOKAT",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.2,
+            "dieselAmount": 79.21,
+            "lpgAmount": 36.68
+          },
+          "opet": {
+            "gasolineAmount": 64.19,
+            "dieselAmount": 79.2,
+            "lpgAmount": 44.63
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.22,
+            "dieselAmount": 79.23,
+            "lpgAmount": 35.59
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.2,
+            "dieselAmount": 79.21,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "061",
+        "provinceName": "TRABZON",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.31,
+            "dieselAmount": 79.33,
+            "lpgAmount": 37.18
+          },
+          "opet": {
+            "gasolineAmount": 64.29,
+            "dieselAmount": 79.3,
+            "lpgAmount": 44.6
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.31,
+            "dieselAmount": 79.33,
+            "lpgAmount": 35.19
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.3,
+            "dieselAmount": 79.31,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "062",
+        "provinceName": "TUNCELI",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 65.09,
+            "dieselAmount": 80.22,
+            "lpgAmount": 37.08
+          },
+          "opet": {
+            "gasolineAmount": 65.06,
+            "dieselAmount": 80.18,
+            "lpgAmount": 44.7
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 65.16,
+            "dieselAmount": 80.29,
+            "lpgAmount": 36.01
+          },
+          "totalEnergies": {
+            "gasolineAmount": 65.08,
+            "dieselAmount": 80.23,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "064",
+        "provinceName": "USAK",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.29,
+            "dieselAmount": 79.34,
+            "lpgAmount": 36.24
+          },
+          "opet": {
+            "gasolineAmount": 64.28,
+            "dieselAmount": 79.33,
+            "lpgAmount": 44.6
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.34,
+            "dieselAmount": 79.36,
+            "lpgAmount": 34.95
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.3,
+            "dieselAmount": 79.35,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "065",
+        "provinceName": "VAN",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 65.15,
+            "dieselAmount": 80.22,
+            "lpgAmount": 38.55
+          },
+          "opet": {
+            "gasolineAmount": 65.13,
+            "dieselAmount": 80.2,
+            "lpgAmount": 44.74
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 65.14,
+            "dieselAmount": 80.19,
+            "lpgAmount": 35.41
+          },
+          "totalEnergies": {
+            "gasolineAmount": 65.14,
+            "dieselAmount": 80.21,
+            "lpgAmount": 0
+          }
+        }
+      },
+      {
+        "provinceCode": "077",
+        "provinceName": "YALOVA",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 63.27,
+            "dieselAmount": 78.1,
+            "lpgAmount": 34.96
+          },
+          "opet": {
+            "gasolineAmount": 63.27,
+            "dieselAmount": 78.1,
+            "lpgAmount": 44.58
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 63.33,
+            "dieselAmount": 78.15,
+            "lpgAmount": 34.29
+          },
+          "totalEnergies": {
+            "gasolineAmount": 63.27,
+            "dieselAmount": 78.1,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "066",
+        "provinceName": "YOZGAT",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 64.25,
+            "dieselAmount": 79.27,
+            "lpgAmount": 37.66
+          },
+          "opet": {
+            "gasolineAmount": 64.23,
+            "dieselAmount": 79.26,
+            "lpgAmount": 44.6
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 64.25,
+            "dieselAmount": 79.27,
+            "lpgAmount": 35.02
+          },
+          "totalEnergies": {
+            "gasolineAmount": 64.26,
+            "dieselAmount": 79.28,
+            "lpgAmount": null
+          }
+        }
+      },
+      {
+        "provinceCode": "067",
+        "provinceName": "ZONGULDAK",
+        "prices": {
+          "shell": {
+            "gasolineAmount": 63.83,
+            "dieselAmount": 78.65,
+            "lpgAmount": 35.91
+          },
+          "opet": {
+            "gasolineAmount": 63.82,
+            "dieselAmount": 78.65,
+            "lpgAmount": 44.61
+          },
+          "petrolOfisi": {
+            "gasolineAmount": 63.84,
+            "dieselAmount": 78.66,
+            "lpgAmount": 34.95
+          },
+          "totalEnergies": {
+            "gasolineAmount": 63.82,
+            "dieselAmount": 78.65,
+            "lpgAmount": null
+          }
+        }
+      }
+    ]
   }
 ]
