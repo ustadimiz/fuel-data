@@ -1,12 +1,12 @@
 {
   "generatedAt": {
-    "day": "06",
+    "day": "07",
     "month": "04",
     "year": "2026",
-    "hour": "23",
+    "hour": "00",
     "minute": "29",
-    "second": "19",
-    "formatted": "06.04.2026 23:29:19"
+    "second": "30",
+    "formatted": "07.04.2026 00:29:30"
   },
   "provinces": [
     {
@@ -14,14 +14,14 @@
       "provinceName": "ADANA",
       "prices": {
         "shell": {
-          "gasolineAmount": null,
-          "dieselAmount": null,
-          "lpgAmount": null
+          "gasolineAmount": 64.41,
+          "dieselAmount": 79.43,
+          "lpgAmount": 35.57
         },
         "opet": {
           "gasolineAmount": 64.43,
           "dieselAmount": 79.45,
-          "lpgAmount": 44.67
+          "lpgAmount": 45.62
         },
         "petrolOfisi": {
           "gasolineAmount": 64.41,
@@ -47,7 +47,7 @@
         "opet": {
           "gasolineAmount": 64.77,
           "dieselAmount": 79.82,
-          "lpgAmount": 44.7
+          "lpgAmount": 45.65
         },
         "petrolOfisi": {
           "gasolineAmount": 64.74,
@@ -73,7 +73,7 @@
         "opet": {
           "gasolineAmount": 64.65,
           "dieselAmount": 79.81,
-          "lpgAmount": 44.62
+          "lpgAmount": 45.57
         },
         "petrolOfisi": {
           "gasolineAmount": 64.67,
@@ -99,7 +99,7 @@
         "opet": {
           "gasolineAmount": 64.94,
           "dieselAmount": 79.98,
-          "lpgAmount": 44.68
+          "lpgAmount": 45.63
         },
         "petrolOfisi": {
           "gasolineAmount": 65.12,
@@ -125,7 +125,7 @@
         "opet": {
           "gasolineAmount": 64.5,
           "dieselAmount": 79.52,
-          "lpgAmount": 44.65
+          "lpgAmount": 45.6
         },
         "petrolOfisi": {
           "gasolineAmount": 64.48,
@@ -151,7 +151,7 @@
         "opet": {
           "gasolineAmount": 64.19,
           "dieselAmount": 79.2,
-          "lpgAmount": 44.62
+          "lpgAmount": 45.57
         },
         "petrolOfisi": {
           "gasolineAmount": 64.16,
@@ -177,7 +177,7 @@
         "opet": {
           "gasolineAmount": 63.59,
           "dieselAmount": 78.62,
-          "lpgAmount": 44.58
+          "lpgAmount": 45.53
         },
         "petrolOfisi": {
           "gasolineAmount": 63.57,
@@ -203,7 +203,7 @@
         "opet": {
           "gasolineAmount": 64.81,
           "dieselAmount": 79.93,
-          "lpgAmount": 44.6
+          "lpgAmount": 45.55
         },
         "petrolOfisi": {
           "gasolineAmount": 64.8,
@@ -229,7 +229,7 @@
         "opet": {
           "gasolineAmount": 64.66,
           "dieselAmount": 79.69,
-          "lpgAmount": 44.65
+          "lpgAmount": 45.6
         },
         "petrolOfisi": {
           "gasolineAmount": 64.63,
@@ -255,7 +255,7 @@
         "opet": {
           "gasolineAmount": 64.49,
           "dieselAmount": 79.5,
-          "lpgAmount": 44.63
+          "lpgAmount": 45.58
         },
         "petrolOfisi": {
           "gasolineAmount": 64.44,
@@ -281,7 +281,7 @@
         "opet": {
           "gasolineAmount": 64.09,
           "dieselAmount": 79.13,
-          "lpgAmount": 44.59
+          "lpgAmount": 45.54
         },
         "petrolOfisi": {
           "gasolineAmount": 64.08,
@@ -307,7 +307,7 @@
         "opet": {
           "gasolineAmount": 64.19,
           "dieselAmount": 79.22,
-          "lpgAmount": 44.59
+          "lpgAmount": 45.54
         },
         "petrolOfisi": {
           "gasolineAmount": 64.15,
@@ -333,7 +333,7 @@
         "opet": {
           "gasolineAmount": 63.91,
           "dieselAmount": 78.75,
-          "lpgAmount": 44.62
+          "lpgAmount": 45.57
         },
         "petrolOfisi": {
           "gasolineAmount": 63.88,
@@ -359,7 +359,7 @@
         "opet": {
           "gasolineAmount": 65.07,
           "dieselAmount": 80.2,
-          "lpgAmount": 44.69
+          "lpgAmount": 45.64
         },
         "petrolOfisi": {
           "gasolineAmount": 65.04,
@@ -385,7 +385,7 @@
         "opet": {
           "gasolineAmount": 64.36,
           "dieselAmount": 79.38,
-          "lpgAmount": 44.63
+          "lpgAmount": 45.58
         },
         "petrolOfisi": {
           "gasolineAmount": 64.34,
@@ -411,7 +411,7 @@
         "opet": {
           "gasolineAmount": 63.56,
           "dieselAmount": 78.37,
-          "lpgAmount": 44.59
+          "lpgAmount": 45.54
         },
         "petrolOfisi": {
           "gasolineAmount": 63.53,
@@ -437,7 +437,7 @@
         "opet": {
           "gasolineAmount": 65.11,
           "dieselAmount": 80.26,
-          "lpgAmount": 44.7
+          "lpgAmount": 45.65
         },
         "petrolOfisi": {
           "gasolineAmount": 65.16,
@@ -463,7 +463,7 @@
         "opet": {
           "gasolineAmount": 65.18,
           "dieselAmount": 80.35,
-          "lpgAmount": 44.71
+          "lpgAmount": 45.66
         },
         "petrolOfisi": {
           "gasolineAmount": 65.16,
@@ -489,7 +489,7 @@
         "opet": {
           "gasolineAmount": 63.68,
           "dieselAmount": 78.49,
-          "lpgAmount": 44.6
+          "lpgAmount": 45.55
         },
         "petrolOfisi": {
           "gasolineAmount": 63.64,
@@ -515,7 +515,7 @@
         "opet": {
           "gasolineAmount": 64.65,
           "dieselAmount": 79.77,
-          "lpgAmount": 44.61
+          "lpgAmount": 45.56
         },
         "petrolOfisi": {
           "gasolineAmount": 64.62,
@@ -541,7 +541,7 @@
         "opet": {
           "gasolineAmount": 63.68,
           "dieselAmount": 78.51,
-          "lpgAmount": 44.59
+          "lpgAmount": 45.54
         },
         "petrolOfisi": {
           "gasolineAmount": 63.65,
@@ -567,7 +567,7 @@
         "opet": {
           "gasolineAmount": 64.25,
           "dieselAmount": 79.26,
-          "lpgAmount": 44.61
+          "lpgAmount": 45.56
         },
         "petrolOfisi": {
           "gasolineAmount": 64.2,
@@ -593,7 +593,7 @@
         "opet": {
           "gasolineAmount": 64,
           "dieselAmount": 79.03,
-          "lpgAmount": 44.59
+          "lpgAmount": 45.54
         },
         "petrolOfisi": {
           "gasolineAmount": 63.99,
@@ -619,7 +619,7 @@
         "opet": {
           "gasolineAmount": 64.2,
           "dieselAmount": 79.2,
-          "lpgAmount": 44.6
+          "lpgAmount": 45.55
         },
         "petrolOfisi": {
           "gasolineAmount": 64.16,
@@ -645,7 +645,7 @@
         "opet": {
           "gasolineAmount": 64.32,
           "dieselAmount": 79.41,
-          "lpgAmount": 44.6
+          "lpgAmount": 45.55
         },
         "petrolOfisi": {
           "gasolineAmount": 64.33,
@@ -671,7 +671,7 @@
         "opet": {
           "gasolineAmount": 65.06,
           "dieselAmount": 80.2,
-          "lpgAmount": 44.68
+          "lpgAmount": 45.63
         },
         "petrolOfisi": {
           "gasolineAmount": 65.05,
@@ -697,7 +697,7 @@
         "opet": {
           "gasolineAmount": 63.52,
           "dieselAmount": 78.34,
-          "lpgAmount": 44.59
+          "lpgAmount": 45.54
         },
         "petrolOfisi": {
           "gasolineAmount": 63.48,
@@ -723,7 +723,7 @@
         "opet": {
           "gasolineAmount": 63.72,
           "dieselAmount": 78.77,
-          "lpgAmount": 44.65
+          "lpgAmount": 45.6
         },
         "petrolOfisi": {
           "gasolineAmount": 63.7,
@@ -749,7 +749,7 @@
         "opet": {
           "gasolineAmount": 65.18,
           "dieselAmount": 80.33,
-          "lpgAmount": 44.73
+          "lpgAmount": 45.68
         },
         "petrolOfisi": {
           "gasolineAmount": 65.16,
@@ -775,7 +775,7 @@
         "opet": {
           "gasolineAmount": 64.6,
           "dieselAmount": 79.62,
-          "lpgAmount": 44.64
+          "lpgAmount": 45.59
         },
         "petrolOfisi": {
           "gasolineAmount": 64.58,
@@ -801,7 +801,7 @@
         "opet": {
           "gasolineAmount": 64.65,
           "dieselAmount": 79.68,
-          "lpgAmount": 44.65
+          "lpgAmount": 45.6
         },
         "petrolOfisi": {
           "gasolineAmount": 64.63,
@@ -827,7 +827,7 @@
         "opet": {
           "gasolineAmount": 63.87,
           "dieselAmount": 78.7,
-          "lpgAmount": 44.61
+          "lpgAmount": 45.56
         },
         "petrolOfisi": {
           "gasolineAmount": 63.85,
@@ -853,7 +853,7 @@
         "opet": {
           "gasolineAmount": 64.57,
           "dieselAmount": 79.58,
-          "lpgAmount": 44.68
+          "lpgAmount": 45.63
         },
         "petrolOfisi": {
           "gasolineAmount": 64.53,
@@ -879,7 +879,7 @@
         "opet": {
           "gasolineAmount": 64.41,
           "dieselAmount": 79.44,
-          "lpgAmount": 44.62
+          "lpgAmount": 45.57
         },
         "petrolOfisi": {
           "gasolineAmount": 64.38,
@@ -905,7 +905,7 @@
         "opet": {
           "gasolineAmount": 64.37,
           "dieselAmount": 79.38,
-          "lpgAmount": 44.62
+          "lpgAmount": 45.57
         },
         "petrolOfisi": {
           "gasolineAmount": 64.34,
@@ -931,7 +931,7 @@
         "opet": {
           "gasolineAmount": 65.19,
           "dieselAmount": 80.35,
-          "lpgAmount": 44.92
+          "lpgAmount": 45.87
         },
         "petrolOfisi": {
           "gasolineAmount": 65.2,
@@ -957,7 +957,7 @@
         "opet": {
           "gasolineAmount": 64.3,
           "dieselAmount": 79.34,
-          "lpgAmount": 44.66
+          "lpgAmount": 45.61
         },
         "petrolOfisi": {
           "gasolineAmount": 64.26,
@@ -983,7 +983,7 @@
         "opet": {
           "gasolineAmount": 64.91,
           "dieselAmount": 79.97,
-          "lpgAmount": 44.7
+          "lpgAmount": 45.65
         },
         "petrolOfisi": {
           "gasolineAmount": 65.13,
@@ -1009,7 +1009,7 @@
         "opet": {
           "gasolineAmount": 64.65,
           "dieselAmount": 79.83,
-          "lpgAmount": 44.62
+          "lpgAmount": 45.57
         },
         "petrolOfisi": {
           "gasolineAmount": 64.66,
@@ -1036,7 +1036,7 @@
         "opet": {
           "gasolineAmount": 62.49,
           "dieselAmount": 77.38,
-          "lpgAmount": 44.67
+          "lpgAmount": 45.62
         },
         "petrolOfisi": {
           "gasolineAmount": 62.45,
@@ -1063,7 +1063,7 @@
         "opet": {
           "gasolineAmount": 62.64,
           "dieselAmount": 77.5,
-          "lpgAmount": 44.63
+          "lpgAmount": 45.58
         },
         "petrolOfisi": {
           "gasolineAmount": 62.6,
@@ -1089,7 +1089,7 @@
         "opet": {
           "gasolineAmount": 63.88,
           "dieselAmount": 78.9,
-          "lpgAmount": 44.57
+          "lpgAmount": 45.52
         },
         "petrolOfisi": {
           "gasolineAmount": 63.85,
@@ -1115,7 +1115,7 @@
         "opet": {
           "gasolineAmount": 64.55,
           "dieselAmount": 79.61,
-          "lpgAmount": 44.67
+          "lpgAmount": 45.62
         },
         "petrolOfisi": {
           "gasolineAmount": 64.54,
@@ -1141,7 +1141,7 @@
         "opet": {
           "gasolineAmount": 63.93,
           "dieselAmount": 78.76,
-          "lpgAmount": 44.62
+          "lpgAmount": 45.57
         },
         "petrolOfisi": {
           "gasolineAmount": 63.9,
@@ -1167,7 +1167,7 @@
         "opet": {
           "gasolineAmount": 64.48,
           "dieselAmount": 79.52,
-          "lpgAmount": 44.72
+          "lpgAmount": 45.67
         },
         "petrolOfisi": {
           "gasolineAmount": 64.47,
@@ -1193,7 +1193,7 @@
         "opet": {
           "gasolineAmount": 64.66,
           "dieselAmount": 79.68,
-          "lpgAmount": 44.67
+          "lpgAmount": 45.62
         },
         "petrolOfisi": {
           "gasolineAmount": 64.64,
@@ -1219,7 +1219,7 @@
         "opet": {
           "gasolineAmount": 64.3,
           "dieselAmount": 79.3,
-          "lpgAmount": 44.64
+          "lpgAmount": 45.59
         },
         "petrolOfisi": {
           "gasolineAmount": 64.26,
@@ -1245,7 +1245,7 @@
         "opet": {
           "gasolineAmount": 64.6,
           "dieselAmount": 79.63,
-          "lpgAmount": 44.7
+          "lpgAmount": 45.65
         },
         "petrolOfisi": {
           "gasolineAmount": 64.57,
@@ -1271,7 +1271,7 @@
         "opet": {
           "gasolineAmount": 64.3,
           "dieselAmount": 79.35,
-          "lpgAmount": 44.67
+          "lpgAmount": 45.62
         },
         "petrolOfisi": {
           "gasolineAmount": 64.28,
@@ -1297,7 +1297,7 @@
         "opet": {
           "gasolineAmount": 63.9,
           "dieselAmount": 78.92,
-          "lpgAmount": 44.57
+          "lpgAmount": 45.52
         },
         "petrolOfisi": {
           "gasolineAmount": 63.87,
@@ -1323,7 +1323,7 @@
         "opet": {
           "gasolineAmount": 63.71,
           "dieselAmount": 78.75,
-          "lpgAmount": 44.65
+          "lpgAmount": 45.6
         },
         "petrolOfisi": {
           "gasolineAmount": 63.69,
@@ -1349,7 +1349,7 @@
         "opet": {
           "gasolineAmount": 63.94,
           "dieselAmount": 78.98,
-          "lpgAmount": 44.59
+          "lpgAmount": 45.54
         },
         "petrolOfisi": {
           "gasolineAmount": 63.93,
@@ -1375,7 +1375,7 @@
         "opet": {
           "gasolineAmount": 63.04,
           "dieselAmount": 77.87,
-          "lpgAmount": 44.57
+          "lpgAmount": 45.52
         },
         "petrolOfisi": {
           "gasolineAmount": 63.02,
@@ -1401,7 +1401,7 @@
         "opet": {
           "gasolineAmount": 64.61,
           "dieselAmount": 79.78,
-          "lpgAmount": 44.67
+          "lpgAmount": 45.62
         },
         "petrolOfisi": {
           "gasolineAmount": 64.58,
@@ -1427,7 +1427,7 @@
         "opet": {
           "gasolineAmount": 64.52,
           "dieselAmount": 79.38,
-          "lpgAmount": 44.61
+          "lpgAmount": 45.56
         },
         "petrolOfisi": {
           "gasolineAmount": 64.5,
@@ -1453,7 +1453,7 @@
         "opet": {
           "gasolineAmount": 64.77,
           "dieselAmount": 79.81,
-          "lpgAmount": 44.71
+          "lpgAmount": 45.66
         },
         "petrolOfisi": {
           "gasolineAmount": 64.75,
@@ -1479,7 +1479,7 @@
         "opet": {
           "gasolineAmount": 63.96,
           "dieselAmount": 78.97,
-          "lpgAmount": 44.57
+          "lpgAmount": 45.52
         },
         "petrolOfisi": {
           "gasolineAmount": 63.93,
@@ -1505,7 +1505,7 @@
         "opet": {
           "gasolineAmount": 65.08,
           "dieselAmount": 80.21,
-          "lpgAmount": 44.73
+          "lpgAmount": 45.68
         },
         "petrolOfisi": {
           "gasolineAmount": 65.08,
@@ -1531,7 +1531,7 @@
         "opet": {
           "gasolineAmount": 64.42,
           "dieselAmount": 79.44,
-          "lpgAmount": 44.69
+          "lpgAmount": 45.64
         },
         "petrolOfisi": {
           "gasolineAmount": 64.4,
@@ -1557,7 +1557,7 @@
         "opet": {
           "gasolineAmount": 64.36,
           "dieselAmount": 79.4,
-          "lpgAmount": 44.61
+          "lpgAmount": 45.56
         },
         "petrolOfisi": {
           "gasolineAmount": 64.34,
@@ -1583,7 +1583,7 @@
         "opet": {
           "gasolineAmount": 65.13,
           "dieselAmount": 80.27,
-          "lpgAmount": 44.77
+          "lpgAmount": 45.72
         },
         "petrolOfisi": {
           "gasolineAmount": 65.16,
@@ -1609,7 +1609,7 @@
         "opet": {
           "gasolineAmount": 64.5,
           "dieselAmount": 79.54,
-          "lpgAmount": 44.69
+          "lpgAmount": 45.64
         },
         "petrolOfisi": {
           "gasolineAmount": 64.47,
@@ -1635,7 +1635,7 @@
         "opet": {
           "gasolineAmount": 64.42,
           "dieselAmount": 79.45,
-          "lpgAmount": 44.67
+          "lpgAmount": 45.62
         },
         "petrolOfisi": {
           "gasolineAmount": 64.42,
@@ -1661,7 +1661,7 @@
         "opet": {
           "gasolineAmount": 64.21,
           "dieselAmount": 79.2,
-          "lpgAmount": 44.62
+          "lpgAmount": 45.57
         },
         "petrolOfisi": {
           "gasolineAmount": 64.17,
@@ -1687,7 +1687,7 @@
         "opet": {
           "gasolineAmount": 64.29,
           "dieselAmount": 79.34,
-          "lpgAmount": 44.66
+          "lpgAmount": 45.61
         },
         "petrolOfisi": {
           "gasolineAmount": 64.27,
@@ -1713,7 +1713,7 @@
         "opet": {
           "gasolineAmount": 64.35,
           "dieselAmount": 79.36,
-          "lpgAmount": 44.61
+          "lpgAmount": 45.56
         },
         "petrolOfisi": {
           "gasolineAmount": 64.32,
@@ -1739,7 +1739,7 @@
         "opet": {
           "gasolineAmount": 63.36,
           "dieselAmount": 78.17,
-          "lpgAmount": 44.58
+          "lpgAmount": 45.53
         },
         "petrolOfisi": {
           "gasolineAmount": 63.32,
@@ -1765,7 +1765,7 @@
         "opet": {
           "gasolineAmount": 64.18,
           "dieselAmount": 79.19,
-          "lpgAmount": 44.6
+          "lpgAmount": 45.55
         },
         "petrolOfisi": {
           "gasolineAmount": 64.15,
@@ -1791,7 +1791,7 @@
         "opet": {
           "gasolineAmount": 64.75,
           "dieselAmount": 79.79,
-          "lpgAmount": 44.7
+          "lpgAmount": 45.65
         },
         "petrolOfisi": {
           "gasolineAmount": 64.73,
@@ -1817,7 +1817,7 @@
         "opet": {
           "gasolineAmount": 65.11,
           "dieselAmount": 80.24,
-          "lpgAmount": 44.71
+          "lpgAmount": 45.66
         },
         "petrolOfisi": {
           "gasolineAmount": 65.07,
@@ -1843,7 +1843,7 @@
         "opet": {
           "gasolineAmount": 64.24,
           "dieselAmount": 79.25,
-          "lpgAmount": 44.62
+          "lpgAmount": 45.57
         },
         "petrolOfisi": {
           "gasolineAmount": 64.21,
@@ -1869,7 +1869,7 @@
         "opet": {
           "gasolineAmount": 65.16,
           "dieselAmount": 80.3,
-          "lpgAmount": 44.71
+          "lpgAmount": 45.66
         },
         "petrolOfisi": {
           "gasolineAmount": 65.16,
@@ -1895,7 +1895,7 @@
         "opet": {
           "gasolineAmount": 64.6,
           "dieselAmount": 79.61,
-          "lpgAmount": 44.65
+          "lpgAmount": 45.6
         },
         "petrolOfisi": {
           "gasolineAmount": 64.57,
@@ -1921,7 +1921,7 @@
         "opet": {
           "gasolineAmount": 63.31,
           "dieselAmount": 78.35,
-          "lpgAmount": 44.63
+          "lpgAmount": 45.58
         },
         "petrolOfisi": {
           "gasolineAmount": 63.28,
@@ -1947,7 +1947,7 @@
         "opet": {
           "gasolineAmount": 64.24,
           "dieselAmount": 79.25,
-          "lpgAmount": 44.63
+          "lpgAmount": 45.58
         },
         "petrolOfisi": {
           "gasolineAmount": 64.22,
@@ -1973,7 +1973,7 @@
         "opet": {
           "gasolineAmount": 64.34,
           "dieselAmount": 79.35,
-          "lpgAmount": 44.6
+          "lpgAmount": 45.55
         },
         "petrolOfisi": {
           "gasolineAmount": 64.31,
@@ -1999,7 +1999,7 @@
         "opet": {
           "gasolineAmount": 65.11,
           "dieselAmount": 80.23,
-          "lpgAmount": 44.7
+          "lpgAmount": 45.65
         },
         "petrolOfisi": {
           "gasolineAmount": 65.16,
@@ -2025,7 +2025,7 @@
         "opet": {
           "gasolineAmount": 64.33,
           "dieselAmount": 79.38,
-          "lpgAmount": 44.6
+          "lpgAmount": 45.55
         },
         "petrolOfisi": {
           "gasolineAmount": 64.34,
@@ -2051,7 +2051,7 @@
         "opet": {
           "gasolineAmount": 65.18,
           "dieselAmount": 80.25,
-          "lpgAmount": 44.74
+          "lpgAmount": 45.69
         },
         "petrolOfisi": {
           "gasolineAmount": 65.14,
@@ -2077,7 +2077,7 @@
         "opet": {
           "gasolineAmount": 63.32,
           "dieselAmount": 78.15,
-          "lpgAmount": 44.58
+          "lpgAmount": 45.53
         },
         "petrolOfisi": {
           "gasolineAmount": 63.33,
@@ -2103,7 +2103,7 @@
         "opet": {
           "gasolineAmount": 64.28,
           "dieselAmount": 79.31,
-          "lpgAmount": 44.6
+          "lpgAmount": 45.55
         },
         "petrolOfisi": {
           "gasolineAmount": 64.25,
@@ -2129,7 +2129,7 @@
         "opet": {
           "gasolineAmount": 63.87,
           "dieselAmount": 78.7,
-          "lpgAmount": 44.61
+          "lpgAmount": 45.56
         },
         "petrolOfisi": {
           "gasolineAmount": 63.84,
