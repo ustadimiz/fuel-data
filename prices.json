@@ -3,10 +3,10 @@
     "day": "09",
     "month": "04",
     "year": "2026",
-    "hour": "11",
-    "minute": "12",
-    "second": "03",
-    "formatted": "09.04.2026 11:12:03"
+    "hour": "13",
+    "minute": "04",
+    "second": "15",
+    "formatted": "09.04.2026 13:04:15"
   },
   "provinces": [
     {
@@ -14,9 +14,9 @@
       "provinceName": "ADANA",
       "prices": {
         "shell": {
-          "gasolineAmount": 65.06,
-          "dieselAmount": 87.26,
-          "lpgAmount": 36
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
           "gasolineAmount": 65.03,
@@ -40,9 +40,9 @@
       "provinceName": "ADIYAMAN",
       "prices": {
         "shell": {
-          "gasolineAmount": 65.39,
-          "dieselAmount": 87.6,
-          "lpgAmount": 36.42
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
           "gasolineAmount": 65.37,
