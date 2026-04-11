@@ -3,10 +3,10 @@
     "day": "11",
     "month": "04",
     "year": "2026",
-    "hour": "04",
-    "minute": "16",
-    "second": "07",
-    "formatted": "11.04.2026 04:16:07"
+    "hour": "07",
+    "minute": "12",
+    "second": "09",
+    "formatted": "11.04.2026 07:12:09"
   },
   "provinces": [
     {
@@ -14,8 +14,8 @@
       "provinceName": "ADANA",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.97,
-          "dieselAmount": 74.38,
+          "gasolineAmount": 64.46,
+          "dieselAmount": 78.53,
           "lpgAmount": 36
         },
         "opet": {
@@ -40,8 +40,8 @@
       "provinceName": "ADIYAMAN",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.3,
-          "dieselAmount": 74.72,
+          "gasolineAmount": 64.78,
+          "dieselAmount": 78.88,
           "lpgAmount": 36.42
         },
         "opet": {
@@ -66,8 +66,8 @@
       "provinceName": "AFYON",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.22,
-          "dieselAmount": 74.73,
+          "gasolineAmount": 64.68,
+          "dieselAmount": 78.88,
           "lpgAmount": 37.74
         },
         "opet": {
@@ -92,8 +92,8 @@
       "provinceName": "AGRI",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.68,
-          "dieselAmount": 75.08,
+          "gasolineAmount": 65.14,
+          "dieselAmount": 79.22,
           "lpgAmount": 40.13
         },
         "opet": {
@@ -118,8 +118,8 @@
       "provinceName": "AKSARAY",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.03,
-          "dieselAmount": 74.45,
+          "gasolineAmount": 64.51,
+          "dieselAmount": 78.59,
           "lpgAmount": 36.81
         },
         "opet": {
@@ -144,8 +144,8 @@
       "provinceName": "AMASYA",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.72,
-          "dieselAmount": 74.11,
+          "gasolineAmount": 64.2,
+          "dieselAmount": 78.26,
           "lpgAmount": 36.86
         },
         "opet": {
@@ -170,8 +170,8 @@
       "provinceName": "ANKARA",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.13,
-          "dieselAmount": 73.54,
+          "gasolineAmount": 63.61,
+          "dieselAmount": 77.69,
           "lpgAmount": 36.89
         },
         "opet": {
@@ -196,8 +196,8 @@
       "provinceName": "ANTALYA",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.36,
-          "dieselAmount": 74.86,
+          "gasolineAmount": 64.85,
+          "dieselAmount": 79.02,
           "lpgAmount": 37.46
         },
         "opet": {
@@ -222,8 +222,8 @@
       "provinceName": "ARDAHAN",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.19,
-          "dieselAmount": 74.59,
+          "gasolineAmount": 64.67,
+          "dieselAmount": 78.76,
           "lpgAmount": 39.89
         },
         "opet": {
@@ -248,8 +248,8 @@
       "provinceName": "ARTVIN",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.01,
-          "dieselAmount": 74.4,
+          "gasolineAmount": 64.5,
+          "dieselAmount": 78.56,
           "lpgAmount": 38
         },
         "opet": {
@@ -274,8 +274,8 @@
       "provinceName": "AYDIN",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.63,
-          "dieselAmount": 74.04,
+          "gasolineAmount": 64.11,
+          "dieselAmount": 78.2,
           "lpgAmount": 36.03
         },
         "opet": {
@@ -300,8 +300,8 @@
       "provinceName": "BALIKESIR",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.72,
-          "dieselAmount": 74.13,
+          "gasolineAmount": 64.21,
+          "dieselAmount": 78.29,
           "lpgAmount": 36.23
         },
         "opet": {
@@ -326,8 +326,8 @@
       "provinceName": "BARTIN",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.44,
-          "dieselAmount": 73.65,
+          "gasolineAmount": 63.93,
+          "dieselAmount": 77.82,
           "lpgAmount": 36.54
         },
         "opet": {
@@ -352,8 +352,8 @@
       "provinceName": "BATMAN",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.6,
-          "dieselAmount": 75.11,
+          "gasolineAmount": 65.08,
+          "dieselAmount": 79.26,
           "lpgAmount": 37.74
         },
         "opet": {
@@ -378,8 +378,8 @@
       "provinceName": "BAYBURT",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.9,
-          "dieselAmount": 74.3,
+          "gasolineAmount": 64.37,
+          "dieselAmount": 78.44,
           "lpgAmount": 37.62
         },
         "opet": {
@@ -404,8 +404,8 @@
       "provinceName": "BILECIK",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.09,
-          "dieselAmount": 73.29,
+          "gasolineAmount": 63.57,
+          "dieselAmount": 77.43,
           "lpgAmount": 36.5
         },
         "opet": {
@@ -430,8 +430,8 @@
       "provinceName": "BINGOL",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.72,
-          "dieselAmount": 75.23,
+          "gasolineAmount": 65.18,
+          "dieselAmount": 79.37,
           "lpgAmount": 39.16
         },
         "opet": {
@@ -456,8 +456,8 @@
       "provinceName": "BITLIS",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.72,
-          "dieselAmount": 75.26,
+          "gasolineAmount": 65.2,
+          "dieselAmount": 79.43,
           "lpgAmount": 39.13
         },
         "opet": {
@@ -482,8 +482,8 @@
       "provinceName": "BOLU",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.2,
-          "dieselAmount": 73.39,
+          "gasolineAmount": 63.69,
+          "dieselAmount": 77.54,
           "lpgAmount": 36.02
         },
         "opet": {
@@ -508,8 +508,8 @@
       "provinceName": "BURDUR",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.17,
-          "dieselAmount": 74.68,
+          "gasolineAmount": 64.66,
+          "dieselAmount": 78.83,
           "lpgAmount": 37.09
         },
         "opet": {
@@ -534,8 +534,8 @@
       "provinceName": "BURSA",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.21,
-          "dieselAmount": 73.41,
+          "gasolineAmount": 63.69,
+          "dieselAmount": 77.57,
           "lpgAmount": 36.34
         },
         "opet": {
@@ -560,8 +560,8 @@
       "provinceName": "CANAKKALE",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.77,
-          "dieselAmount": 74.16,
+          "gasolineAmount": 64.26,
+          "dieselAmount": 78.32,
           "lpgAmount": 36.43
         },
         "opet": {
@@ -586,8 +586,8 @@
       "provinceName": "CANKIRI",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.55,
-          "dieselAmount": 73.95,
+          "gasolineAmount": 64.02,
+          "dieselAmount": 78.1,
           "lpgAmount": 36.94
         },
         "opet": {
@@ -612,8 +612,8 @@
       "provinceName": "CORUM",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.73,
-          "dieselAmount": 74.13,
+          "gasolineAmount": 64.21,
+          "dieselAmount": 78.27,
           "lpgAmount": 37.42
         },
         "opet": {
@@ -638,8 +638,8 @@
       "provinceName": "DENIZLI",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.88,
-          "dieselAmount": 74.3,
+          "gasolineAmount": 64.34,
+          "dieselAmount": 78.47,
           "lpgAmount": 36.5
         },
         "opet": {
@@ -664,8 +664,8 @@
       "provinceName": "DIYARBAKIR",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.61,
-          "dieselAmount": 75.12,
+          "gasolineAmount": 65.08,
+          "dieselAmount": 79.27,
           "lpgAmount": 37.6
         },
         "opet": {
@@ -690,8 +690,8 @@
       "provinceName": "DUZCE",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.04,
-          "dieselAmount": 73.24,
+          "gasolineAmount": 63.53,
+          "dieselAmount": 77.39,
           "lpgAmount": 35.53
         },
         "opet": {
@@ -716,8 +716,8 @@
       "provinceName": "EDIRNE",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.26,
-          "dieselAmount": 73.68,
+          "gasolineAmount": 63.73,
+          "dieselAmount": 77.84,
           "lpgAmount": 36.56
         },
         "opet": {
@@ -742,8 +742,8 @@
       "provinceName": "ELAZIG",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.73,
-          "dieselAmount": 75.24,
+          "gasolineAmount": 65.18,
+          "dieselAmount": 79.38,
           "lpgAmount": 37.73
         },
         "opet": {
@@ -768,8 +768,8 @@
       "provinceName": "ERZINCAN",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.14,
-          "dieselAmount": 74.54,
+          "gasolineAmount": 64.62,
+          "dieselAmount": 78.7,
           "lpgAmount": 38.92
         },
         "opet": {
@@ -794,8 +794,8 @@
       "provinceName": "ERZURUM",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.19,
-          "dieselAmount": 74.6,
+          "gasolineAmount": 64.67,
+          "dieselAmount": 78.77,
           "lpgAmount": 39.16
         },
         "opet": {
@@ -820,8 +820,8 @@
       "provinceName": "ESKISEHIR",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.41,
-          "dieselAmount": 73.61,
+          "gasolineAmount": 63.88,
+          "dieselAmount": 77.76,
           "lpgAmount": 36.91
         },
         "opet": {
@@ -846,8 +846,8 @@
       "provinceName": "GAZIANTEP",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.09,
-          "dieselAmount": 74.52,
+          "gasolineAmount": 64.58,
+          "dieselAmount": 78.67,
           "lpgAmount": 35.87
         },
         "opet": {
@@ -872,8 +872,8 @@
       "provinceName": "GIRESUN",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.94,
-          "dieselAmount": 74.35,
+          "gasolineAmount": 64.43,
+          "dieselAmount": 78.52,
           "lpgAmount": 36.84
         },
         "opet": {
@@ -898,8 +898,8 @@
       "provinceName": "GUMUSHANE",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.9,
-          "dieselAmount": 74.3,
+          "gasolineAmount": 64.38,
+          "dieselAmount": 78.45,
           "lpgAmount": 37.12
         },
         "opet": {
@@ -924,8 +924,8 @@
       "provinceName": "HAKKARI",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.76,
-          "dieselAmount": 75.28,
+          "gasolineAmount": 65.24,
+          "dieselAmount": 79.41,
           "lpgAmount": null
         },
         "opet": {
@@ -950,8 +950,8 @@
       "provinceName": "HATAY",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.83,
-          "dieselAmount": 74.24,
+          "gasolineAmount": 64.32,
+          "dieselAmount": 78.41,
           "lpgAmount": 35.87
         },
         "opet": {
@@ -976,8 +976,8 @@
       "provinceName": "IGDIR",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.69,
-          "dieselAmount": 75.09,
+          "gasolineAmount": 65.15,
+          "dieselAmount": 79.23,
           "lpgAmount": 40.33
         },
         "opet": {
@@ -1002,8 +1002,8 @@
       "provinceName": "ISPARTA",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.21,
-          "dieselAmount": 74.75,
+          "gasolineAmount": 64.68,
+          "dieselAmount": 78.92,
           "lpgAmount": 37.42
         },
         "opet": {
@@ -1029,8 +1029,8 @@
       "districtName": "ANADOLU",
       "prices": {
         "shell": {
-          "gasolineAmount": 62.16,
-          "dieselAmount": 72.41,
+          "gasolineAmount": 62.64,
+          "dieselAmount": 76.55,
           "lpgAmount": 36.35
         },
         "opet": {
@@ -1056,8 +1056,8 @@
       "districtName": "AVRUPA",
       "prices": {
         "shell": {
-          "gasolineAmount": 62.16,
-          "dieselAmount": 72.41,
+          "gasolineAmount": 62.64,
+          "dieselAmount": 76.55,
           "lpgAmount": 36.35
         },
         "opet": {
@@ -1082,8 +1082,8 @@
       "provinceName": "IZMIR",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.41,
-          "dieselAmount": 73.82,
+          "gasolineAmount": 63.89,
+          "dieselAmount": 77.96,
           "lpgAmount": 36.31
         },
         "opet": {
@@ -1108,8 +1108,8 @@
       "provinceName": "K.MARAS",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.1,
-          "dieselAmount": 74.52,
+          "gasolineAmount": 64.57,
+          "dieselAmount": 78.69,
           "lpgAmount": 36.15
         },
         "opet": {
@@ -1134,8 +1134,8 @@
       "provinceName": "KARABUK",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.46,
-          "dieselAmount": 73.66,
+          "gasolineAmount": 63.94,
+          "dieselAmount": 77.83,
           "lpgAmount": 36.36
         },
         "opet": {
@@ -1160,8 +1160,8 @@
       "provinceName": "KARAMAN",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.02,
-          "dieselAmount": 74.44,
+          "gasolineAmount": 64.5,
+          "dieselAmount": 78.58,
           "lpgAmount": 36.69
         },
         "opet": {
@@ -1186,8 +1186,8 @@
       "provinceName": "KARS",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.2,
-          "dieselAmount": 74.6,
+          "gasolineAmount": 64.67,
+          "dieselAmount": 78.74,
           "lpgAmount": 39.84
         },
         "opet": {
@@ -1212,8 +1212,8 @@
       "provinceName": "KASTAMONU",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.82,
-          "dieselAmount": 74.22,
+          "gasolineAmount": 64.31,
+          "dieselAmount": 78.36,
           "lpgAmount": 38.4
         },
         "opet": {
@@ -1238,8 +1238,8 @@
       "provinceName": "KAYSERI",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.12,
-          "dieselAmount": 74.54,
+          "gasolineAmount": 64.61,
+          "dieselAmount": 78.69,
           "lpgAmount": 36.83
         },
         "opet": {
@@ -1264,8 +1264,8 @@
       "provinceName": "KILIS",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.84,
-          "dieselAmount": 74.26,
+          "gasolineAmount": 64.3,
+          "dieselAmount": 78.41,
           "lpgAmount": 35.57
         },
         "opet": {
@@ -1290,8 +1290,8 @@
       "provinceName": "KIRIKKALE",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.43,
-          "dieselAmount": 73.83,
+          "gasolineAmount": 63.91,
+          "dieselAmount": 77.99,
           "lpgAmount": 36.43
         },
         "opet": {
@@ -1316,8 +1316,8 @@
       "provinceName": "KIRKLARELI",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.25,
-          "dieselAmount": 73.69,
+          "gasolineAmount": 63.71,
+          "dieselAmount": 77.81,
           "lpgAmount": 36.55
         },
         "opet": {
@@ -1342,8 +1342,8 @@
       "provinceName": "KIRSEHIR",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.49,
-          "dieselAmount": 73.89,
+          "gasolineAmount": 63.95,
+          "dieselAmount": 78.04,
           "lpgAmount": 37
         },
         "opet": {
@@ -1368,8 +1368,8 @@
       "provinceName": "KOCAELI",
       "prices": {
         "shell": {
-          "gasolineAmount": 62.58,
-          "dieselAmount": 72.78,
+          "gasolineAmount": 63.05,
+          "dieselAmount": 76.93,
           "lpgAmount": 35.93
         },
         "opet": {
@@ -1394,8 +1394,8 @@
       "provinceName": "KONYA",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.14,
-          "dieselAmount": 74.7,
+          "gasolineAmount": 64.63,
+          "dieselAmount": 78.86,
           "lpgAmount": 37.45
         },
         "opet": {
@@ -1420,8 +1420,8 @@
       "provinceName": "KUTAHYA",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.08,
-          "dieselAmount": 74.31,
+          "gasolineAmount": 64.57,
+          "dieselAmount": 78.48,
           "lpgAmount": 36.82
         },
         "opet": {
@@ -1446,8 +1446,8 @@
       "provinceName": "MALATYA",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.31,
-          "dieselAmount": 74.73,
+          "gasolineAmount": 64.78,
+          "dieselAmount": 78.88,
           "lpgAmount": 36.71
         },
         "opet": {
@@ -1472,8 +1472,8 @@
       "provinceName": "MANISA",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.49,
-          "dieselAmount": 73.9,
+          "gasolineAmount": 63.97,
+          "dieselAmount": 78.04,
           "lpgAmount": 36.14
         },
         "opet": {
@@ -1498,8 +1498,8 @@
       "provinceName": "MARDIN",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.64,
-          "dieselAmount": 75.15,
+          "gasolineAmount": 65.1,
+          "dieselAmount": 79.29,
           "lpgAmount": 37.76
         },
         "opet": {
@@ -1524,8 +1524,8 @@
       "provinceName": "MERSIN",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.96,
-          "dieselAmount": 74.37,
+          "gasolineAmount": 64.45,
+          "dieselAmount": 78.52,
           "lpgAmount": 36.67
         },
         "opet": {
@@ -1550,8 +1550,8 @@
       "provinceName": "MUGLA",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.88,
-          "dieselAmount": 74.3,
+          "gasolineAmount": 64.37,
+          "dieselAmount": 78.47,
           "lpgAmount": 38.01
         },
         "opet": {
@@ -1576,8 +1576,8 @@
       "provinceName": "MUS",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.72,
-          "dieselAmount": 75.23,
+          "gasolineAmount": 65.18,
+          "dieselAmount": 79.37,
           "lpgAmount": 39.09
         },
         "opet": {
@@ -1602,8 +1602,8 @@
       "provinceName": "NEVSEHIR",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.03,
-          "dieselAmount": 74.44,
+          "gasolineAmount": 64.52,
+          "dieselAmount": 78.61,
           "lpgAmount": 36.84
         },
         "opet": {
@@ -1628,8 +1628,8 @@
       "provinceName": "NIGDE",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.97,
-          "dieselAmount": 74.39,
+          "gasolineAmount": 64.43,
+          "dieselAmount": 78.53,
           "lpgAmount": 36.26
         },
         "opet": {
@@ -1654,8 +1654,8 @@
       "provinceName": "ORDU",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.73,
-          "dieselAmount": 74.12,
+          "gasolineAmount": 64.22,
+          "dieselAmount": 78.26,
           "lpgAmount": 36.78
         },
         "opet": {
@@ -1680,8 +1680,8 @@
       "provinceName": "OSMANIYE",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.83,
-          "dieselAmount": 74.25,
+          "gasolineAmount": 64.3,
+          "dieselAmount": 78.39,
           "lpgAmount": 34.91
         },
         "opet": {
@@ -1706,8 +1706,8 @@
       "provinceName": "RIZE",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.88,
-          "dieselAmount": 74.28,
+          "gasolineAmount": 64.37,
+          "dieselAmount": 78.43,
           "lpgAmount": 37.85
         },
         "opet": {
@@ -1732,8 +1732,8 @@
       "provinceName": "SAKARYA",
       "prices": {
         "shell": {
-          "gasolineAmount": 62.88,
-          "dieselAmount": 73.08,
+          "gasolineAmount": 63.37,
+          "dieselAmount": 77.23,
           "lpgAmount": 36.03
         },
         "opet": {
@@ -1758,8 +1758,8 @@
       "provinceName": "SAMSUN",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.71,
-          "dieselAmount": 74.1,
+          "gasolineAmount": 64.2,
+          "dieselAmount": 78.26,
           "lpgAmount": 36.81
         },
         "opet": {
@@ -1784,8 +1784,8 @@
       "provinceName": "SANLIURFA",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.29,
-          "dieselAmount": 74.71,
+          "gasolineAmount": 64.77,
+          "dieselAmount": 78.86,
           "lpgAmount": 37.07
         },
         "opet": {
@@ -1810,8 +1810,8 @@
       "provinceName": "SIIRT",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.64,
-          "dieselAmount": 75.14,
+          "gasolineAmount": 65.13,
+          "dieselAmount": 79.3,
           "lpgAmount": 38
         },
         "opet": {
@@ -1836,8 +1836,8 @@
       "provinceName": "SINOP",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.77,
-          "dieselAmount": 74.16,
+          "gasolineAmount": 64.25,
+          "dieselAmount": 78.32,
           "lpgAmount": 37.34
         },
         "opet": {
@@ -1862,8 +1862,8 @@
       "provinceName": "SIRNAK",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.72,
-          "dieselAmount": 75.23,
+          "gasolineAmount": 65.18,
+          "dieselAmount": 79.37,
           "lpgAmount": 38.32
         },
         "opet": {
@@ -1888,8 +1888,8 @@
       "provinceName": "SIVAS",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.14,
-          "dieselAmount": 74.53,
+          "gasolineAmount": 64.63,
+          "dieselAmount": 78.69,
           "lpgAmount": 38.39
         },
         "opet": {
@@ -1914,8 +1914,8 @@
       "provinceName": "TEKIRDAG",
       "prices": {
         "shell": {
-          "gasolineAmount": 62.84,
-          "dieselAmount": 73.26,
+          "gasolineAmount": 63.32,
+          "dieselAmount": 77.41,
           "lpgAmount": 36.21
         },
         "opet": {
@@ -1940,8 +1940,8 @@
       "provinceName": "TOKAT",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.78,
-          "dieselAmount": 74.17,
+          "gasolineAmount": 64.25,
+          "dieselAmount": 78.31,
           "lpgAmount": 37.32
         },
         "opet": {
@@ -1966,8 +1966,8 @@
       "provinceName": "TRABZON",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.87,
-          "dieselAmount": 74.27,
+          "gasolineAmount": 64.36,
+          "dieselAmount": 78.43,
           "lpgAmount": 37.91
         },
         "opet": {
@@ -1992,8 +1992,8 @@
       "provinceName": "TUNCELI",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.72,
-          "dieselAmount": 75.23,
+          "gasolineAmount": 65.18,
+          "dieselAmount": 79.37,
           "lpgAmount": 37.74
         },
         "opet": {
@@ -2018,8 +2018,8 @@
       "provinceName": "USAK",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.89,
-          "dieselAmount": 74.3,
+          "gasolineAmount": 64.35,
+          "dieselAmount": 78.44,
           "lpgAmount": 36.44
         },
         "opet": {
@@ -2044,8 +2044,8 @@
       "provinceName": "VAN",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.71,
-          "dieselAmount": 75.15,
+          "gasolineAmount": 65.2,
+          "dieselAmount": 79.32,
           "lpgAmount": 39.63
         },
         "opet": {
@@ -2070,8 +2070,8 @@
       "provinceName": "YALOVA",
       "prices": {
         "shell": {
-          "gasolineAmount": 62.89,
-          "dieselAmount": 73.09,
+          "gasolineAmount": 63.35,
+          "dieselAmount": 77.23,
           "lpgAmount": 35.3
         },
         "opet": {
@@ -2096,8 +2096,8 @@
       "provinceName": "YOZGAT",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.81,
-          "dieselAmount": 74.21,
+          "gasolineAmount": 64.3,
+          "dieselAmount": 78.37,
           "lpgAmount": 38.56
         },
         "opet": {
@@ -2122,8 +2122,8 @@
       "provinceName": "ZONGULDAK",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.4,
-          "dieselAmount": 73.6,
+          "gasolineAmount": 63.88,
+          "dieselAmount": 77.75,
           "lpgAmount": 36.36
         },
         "opet": {
