@@ -1,12 +1,12 @@
 {
   "generatedAt": {
-    "day": "12",
+    "day": "13",
     "month": "04",
     "year": "2026",
-    "hour": "23",
-    "minute": "24",
-    "second": "26",
-    "formatted": "12.04.2026 23:24:26"
+    "hour": "00",
+    "minute": "25",
+    "second": "04",
+    "formatted": "13.04.2026 00:25:04"
   },
   "provinces": [
     {
@@ -14,9 +14,9 @@
       "provinceName": "ADANA",
       "prices": {
         "shell": {
-          "gasolineAmount": null,
-          "dieselAmount": null,
-          "lpgAmount": null
+          "gasolineAmount": 64.46,
+          "dieselAmount": 78.53,
+          "lpgAmount": 36
         },
         "opet": {
           "gasolineAmount": 64.43,
