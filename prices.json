@@ -3,10 +3,10 @@
     "day": "13",
     "month": "04",
     "year": "2026",
-    "hour": "00",
-    "minute": "25",
-    "second": "04",
-    "formatted": "13.04.2026 00:25:04"
+    "hour": "01",
+    "minute": "24",
+    "second": "03",
+    "formatted": "13.04.2026 01:24:03"
   },
   "provinces": [
     {
@@ -14,9 +14,9 @@
       "provinceName": "ADANA",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.46,
-          "dieselAmount": 78.53,
-          "lpgAmount": 36
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
           "gasolineAmount": 64.43,
@@ -40,9 +40,9 @@
       "provinceName": "ADIYAMAN",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.78,
-          "dieselAmount": 78.88,
-          "lpgAmount": 36.42
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
           "gasolineAmount": 64.77,
@@ -66,9 +66,9 @@
       "provinceName": "AFYON",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.68,
-          "dieselAmount": 78.88,
-          "lpgAmount": 37.74
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
           "gasolineAmount": 64.65,
@@ -92,9 +92,9 @@
       "provinceName": "AGRI",
       "prices": {
         "shell": {
-          "gasolineAmount": 65.14,
-          "dieselAmount": 79.22,
-          "lpgAmount": 40.13
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
           "gasolineAmount": 64.94,
@@ -118,9 +118,9 @@
       "provinceName": "AKSARAY",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.51,
-          "dieselAmount": 78.59,
-          "lpgAmount": 36.81
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
           "gasolineAmount": 64.5,
