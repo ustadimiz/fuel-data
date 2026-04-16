@@ -1,12 +1,12 @@
 {
   "generatedAt": {
-    "day": "15",
+    "day": "16",
     "month": "04",
     "year": "2026",
-    "hour": "09",
-    "minute": "27",
-    "second": "35",
-    "formatted": "15.04.2026 09:27:35"
+    "hour": "07",
+    "minute": "15",
+    "second": "34",
+    "formatted": "16.04.2026 07:15:34"
   },
   "provinces": [
     {
@@ -14,23 +14,23 @@
       "provinceName": "ADANA",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.46,
-          "dieselAmount": 77.51,
-          "lpgAmount": 36
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.49,
-          "dieselAmount": 77.56,
-          "lpgAmount": 42.57
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.47,
-          "dieselAmount": 77.56,
-          "lpgAmount": 35.31
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.44,
-          "dieselAmount": 77.53,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -40,24 +40,24 @@
       "provinceName": "ADIYAMAN",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.78,
-          "dieselAmount": 77.86,
-          "lpgAmount": 36.42
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.83,
-          "dieselAmount": 77.93,
-          "lpgAmount": 42.6
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.8,
-          "dieselAmount": 77.9,
-          "lpgAmount": 35.44
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.8,
-          "dieselAmount": 77.9,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -66,24 +66,24 @@
       "provinceName": "AFYON",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.68,
-          "dieselAmount": 77.86,
-          "lpgAmount": 37.74
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.71,
-          "dieselAmount": 77.92,
-          "lpgAmount": 42.52
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.75,
-          "dieselAmount": 77.94,
-          "lpgAmount": 34.84
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.66,
-          "dieselAmount": 77.89,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -92,24 +92,24 @@
       "provinceName": "AGRI",
       "prices": {
         "shell": {
-          "gasolineAmount": 65.14,
-          "dieselAmount": 78.2,
-          "lpgAmount": 40.13
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 65,
-          "dieselAmount": 78.09,
-          "lpgAmount": 42.58
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 65.19,
-          "dieselAmount": 78.27,
-          "lpgAmount": 36.09
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 65.16,
-          "dieselAmount": 78.22,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -118,24 +118,24 @@
       "provinceName": "AKSARAY",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.51,
-          "dieselAmount": 77.57,
-          "lpgAmount": 36.81
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.56,
-          "dieselAmount": 77.63,
-          "lpgAmount": 42.55
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.54,
-          "dieselAmount": 77.63,
-          "lpgAmount": 34.71
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.54,
-          "dieselAmount": 77.6,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -144,24 +144,24 @@
       "provinceName": "AMASYA",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.2,
-          "dieselAmount": 77.24,
-          "lpgAmount": 36.86
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.25,
-          "dieselAmount": 77.31,
-          "lpgAmount": 42.52
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.22,
-          "dieselAmount": 77.29,
-          "lpgAmount": 35.49
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.2,
-          "dieselAmount": 77.28,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -170,24 +170,24 @@
       "provinceName": "ANKARA",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.61,
-          "dieselAmount": 76.67,
-          "lpgAmount": 36.89
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 63.65,
-          "dieselAmount": 76.73,
-          "lpgAmount": 42.48
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 63.62,
-          "dieselAmount": 76.72,
-          "lpgAmount": 34.87
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 63.6,
-          "dieselAmount": 76.7,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -196,23 +196,23 @@
       "provinceName": "ANTALYA",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.85,
-          "dieselAmount": 78,
-          "lpgAmount": 37.46
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.87,
-          "dieselAmount": 78.04,
-          "lpgAmount": 42.5
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.85,
-          "dieselAmount": 78.04,
-          "lpgAmount": 35.04
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.86,
-          "dieselAmount": 78.05,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -222,24 +222,24 @@
       "provinceName": "ARDAHAN",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.67,
-          "dieselAmount": 77.74,
-          "lpgAmount": 39.89
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.72,
-          "dieselAmount": 77.8,
-          "lpgAmount": 42.55
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.69,
-          "dieselAmount": 77.77,
-          "lpgAmount": 35.79
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.67,
-          "dieselAmount": 77.77,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -248,24 +248,24 @@
       "provinceName": "ARTVIN",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.5,
-          "dieselAmount": 77.54,
-          "lpgAmount": 38
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.55,
-          "dieselAmount": 77.61,
-          "lpgAmount": 42.53
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.5,
-          "dieselAmount": 77.58,
-          "lpgAmount": 36.34
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.5,
-          "dieselAmount": 77.58,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -274,24 +274,24 @@
       "provinceName": "AYDIN",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.11,
-          "dieselAmount": 77.18,
-          "lpgAmount": 36.03
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.15,
-          "dieselAmount": 77.24,
-          "lpgAmount": 42.49
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.13,
-          "dieselAmount": 77.22,
-          "lpgAmount": 34.94
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.1,
-          "dieselAmount": 77.21,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -300,23 +300,23 @@
       "provinceName": "BALIKESIR",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.21,
-          "dieselAmount": 77.27,
-          "lpgAmount": 36.23
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.25,
-          "dieselAmount": 77.33,
-          "lpgAmount": 42.49
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.22,
-          "dieselAmount": 77.31,
-          "lpgAmount": 34.49
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.18,
-          "dieselAmount": 77.28,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -326,24 +326,24 @@
       "provinceName": "BARTIN",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.93,
-          "dieselAmount": 76.8,
-          "lpgAmount": 36.54
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 63.97,
-          "dieselAmount": 76.86,
-          "lpgAmount": 42.52
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 63.94,
-          "dieselAmount": 76.82,
-          "lpgAmount": 34.55
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 63.92,
-          "dieselAmount": 76.83,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -352,24 +352,24 @@
       "provinceName": "BATMAN",
       "prices": {
         "shell": {
-          "gasolineAmount": 65.08,
-          "dieselAmount": 78.24,
-          "lpgAmount": 37.74
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 65.13,
-          "dieselAmount": 78.31,
-          "lpgAmount": 42.59
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 65.09,
-          "dieselAmount": 78.29,
-          "lpgAmount": 35.44
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 65.08,
-          "dieselAmount": 78.28,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -378,24 +378,24 @@
       "provinceName": "BAYBURT",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.37,
-          "dieselAmount": 77.42,
-          "lpgAmount": 37.62
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.42,
-          "dieselAmount": 77.49,
-          "lpgAmount": 42.53
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.4,
-          "dieselAmount": 77.48,
-          "lpgAmount": 35.69
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.37,
-          "dieselAmount": 77.46,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -404,24 +404,24 @@
       "provinceName": "BILECIK",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.57,
-          "dieselAmount": 76.41,
-          "lpgAmount": 36.5
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 63.62,
-          "dieselAmount": 76.48,
-          "lpgAmount": 42.49
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 63.59,
-          "dieselAmount": 76.47,
-          "lpgAmount": 34.39
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 63.57,
-          "dieselAmount": 76.45,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -430,24 +430,24 @@
       "provinceName": "BINGOL",
       "prices": {
         "shell": {
-          "gasolineAmount": 65.18,
-          "dieselAmount": 78.35,
-          "lpgAmount": 39.16
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 65.17,
-          "dieselAmount": 78.37,
-          "lpgAmount": 42.6
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 65.23,
-          "dieselAmount": 78.43,
-          "lpgAmount": 35.69
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 65.14,
-          "dieselAmount": 78.35,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -456,24 +456,24 @@
       "provinceName": "BITLIS",
       "prices": {
         "shell": {
-          "gasolineAmount": 65.2,
-          "dieselAmount": 78.41,
-          "lpgAmount": 39.13
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 65.24,
-          "dieselAmount": 78.46,
-          "lpgAmount": 42.61
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 65.23,
-          "dieselAmount": 78.43,
-          "lpgAmount": 35.51
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 65.19,
-          "dieselAmount": 78.43,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -482,24 +482,24 @@
       "provinceName": "BOLU",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.69,
-          "dieselAmount": 76.52,
-          "lpgAmount": 36.02
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 63.74,
-          "dieselAmount": 76.6,
-          "lpgAmount": 42.5
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 63.7,
-          "dieselAmount": 76.57,
-          "lpgAmount": 34.7
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 63.69,
-          "dieselAmount": 76.57,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -508,23 +508,23 @@
       "provinceName": "BURDUR",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.66,
-          "dieselAmount": 77.81,
-          "lpgAmount": 37.09
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.71,
-          "dieselAmount": 77.88,
-          "lpgAmount": 42.51
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.67,
-          "dieselAmount": 77.86,
-          "lpgAmount": 34.99
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.65,
-          "dieselAmount": 77.84,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -534,24 +534,24 @@
       "provinceName": "BURSA",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.69,
-          "dieselAmount": 76.55,
-          "lpgAmount": 36.34
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 63.74,
-          "dieselAmount": 76.62,
-          "lpgAmount": 42.49
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 63.71,
-          "dieselAmount": 76.59,
-          "lpgAmount": 34.39
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 63.69,
-          "dieselAmount": 76.59,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -560,23 +560,23 @@
       "provinceName": "CANAKKALE",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.26,
-          "dieselAmount": 77.3,
-          "lpgAmount": 36.43
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.31,
-          "dieselAmount": 77.37,
-          "lpgAmount": 42.51
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.26,
-          "dieselAmount": 77.35,
-          "lpgAmount": 34.59
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.25,
-          "dieselAmount": 77.33,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -586,24 +586,24 @@
       "provinceName": "CANKIRI",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.02,
-          "dieselAmount": 77.08,
-          "lpgAmount": 36.94
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.06,
-          "dieselAmount": 77.14,
-          "lpgAmount": 42.49
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.05,
-          "dieselAmount": 77.13,
-          "lpgAmount": 35.1
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.01,
-          "dieselAmount": 77.11,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -612,24 +612,24 @@
       "provinceName": "CORUM",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.21,
-          "dieselAmount": 77.25,
-          "lpgAmount": 37.42
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.26,
-          "dieselAmount": 77.31,
-          "lpgAmount": 42.5
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.23,
-          "dieselAmount": 77.31,
-          "lpgAmount": 35.04
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.21,
-          "dieselAmount": 77.28,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -638,23 +638,23 @@
       "provinceName": "DENIZLI",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.34,
-          "dieselAmount": 77.45,
-          "lpgAmount": 36.5
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.38,
-          "dieselAmount": 77.52,
-          "lpgAmount": 42.5
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.4,
-          "dieselAmount": 77.49,
-          "lpgAmount": 34.69
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.34,
-          "dieselAmount": 77.5,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -664,24 +664,24 @@
       "provinceName": "DIYARBAKIR",
       "prices": {
         "shell": {
-          "gasolineAmount": 65.08,
-          "dieselAmount": 78.25,
-          "lpgAmount": 37.6
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 65.12,
-          "dieselAmount": 78.31,
-          "lpgAmount": 42.58
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 65.1,
-          "dieselAmount": 78.3,
-          "lpgAmount": 35.56
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 65.07,
-          "dieselAmount": 78.28,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -690,23 +690,23 @@
       "provinceName": "DUZCE",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.53,
-          "dieselAmount": 76.37,
-          "lpgAmount": 35.53
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 63.58,
-          "dieselAmount": 76.45,
-          "lpgAmount": 42.49
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 63.54,
-          "dieselAmount": 76.42,
-          "lpgAmount": 34.55
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 63.53,
-          "dieselAmount": 76.42,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -716,24 +716,24 @@
       "provinceName": "EDIRNE",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.73,
-          "dieselAmount": 76.82,
-          "lpgAmount": 36.56
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 63.78,
-          "dieselAmount": 76.88,
-          "lpgAmount": 42.55
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 63.75,
-          "dieselAmount": 76.86,
-          "lpgAmount": 35.09
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 63.73,
-          "dieselAmount": 76.85,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -742,24 +742,24 @@
       "provinceName": "ELAZIG",
       "prices": {
         "shell": {
-          "gasolineAmount": 65.18,
-          "dieselAmount": 78.36,
-          "lpgAmount": 37.73
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 65.24,
-          "dieselAmount": 78.44,
-          "lpgAmount": 42.63
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 65.22,
-          "dieselAmount": 78.42,
-          "lpgAmount": 35.31
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 65.19,
-          "dieselAmount": 78.41,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -768,24 +768,24 @@
       "provinceName": "ERZINCAN",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.62,
-          "dieselAmount": 77.68,
-          "lpgAmount": 38.92
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.66,
-          "dieselAmount": 77.73,
-          "lpgAmount": 42.54
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.64,
-          "dieselAmount": 77.72,
-          "lpgAmount": 35.69
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.61,
-          "dieselAmount": 77.7,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -794,24 +794,24 @@
       "provinceName": "ERZURUM",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.67,
-          "dieselAmount": 77.75,
-          "lpgAmount": 39.16
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.71,
-          "dieselAmount": 77.79,
-          "lpgAmount": 42.55
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.69,
-          "dieselAmount": 77.77,
-          "lpgAmount": 35.49
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.66,
-          "dieselAmount": 77.76,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -820,23 +820,23 @@
       "provinceName": "ESKISEHIR",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.88,
-          "dieselAmount": 76.74,
-          "lpgAmount": 36.91
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 63.93,
-          "dieselAmount": 76.81,
-          "lpgAmount": 42.51
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 63.91,
-          "dieselAmount": 76.79,
-          "lpgAmount": 34.49
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 63.88,
-          "dieselAmount": 76.78,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -846,24 +846,24 @@
       "provinceName": "GAZIANTEP",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.58,
-          "dieselAmount": 77.65,
-          "lpgAmount": 35.87
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.63,
-          "dieselAmount": 77.69,
-          "lpgAmount": 42.58
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.59,
-          "dieselAmount": 77.69,
-          "lpgAmount": 35.01
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.58,
-          "dieselAmount": 77.66,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -872,24 +872,24 @@
       "provinceName": "GIRESUN",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.43,
-          "dieselAmount": 77.5,
-          "lpgAmount": 36.84
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.47,
-          "dieselAmount": 77.55,
-          "lpgAmount": 42.52
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.44,
-          "dieselAmount": 77.52,
-          "lpgAmount": 35.49
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.42,
-          "dieselAmount": 77.52,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -898,24 +898,24 @@
       "provinceName": "GUMUSHANE",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.38,
-          "dieselAmount": 77.43,
-          "lpgAmount": 37.12
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.43,
-          "dieselAmount": 77.49,
-          "lpgAmount": 42.52
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.4,
-          "dieselAmount": 77.48,
-          "lpgAmount": 35.59
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.38,
-          "dieselAmount": 77.46,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -924,24 +924,24 @@
       "provinceName": "HAKKARI",
       "prices": {
         "shell": {
-          "gasolineAmount": 65.24,
-          "dieselAmount": 78.39,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 65.25,
-          "dieselAmount": 78.46,
-          "lpgAmount": 42.82
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 65.25,
-          "dieselAmount": 78.45,
-          "lpgAmount": 36.17
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 65.22,
-          "dieselAmount": 78.43,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -950,24 +950,24 @@
       "provinceName": "HATAY",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.32,
-          "dieselAmount": 77.39,
-          "lpgAmount": 35.87
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.36,
-          "dieselAmount": 77.45,
-          "lpgAmount": 42.56
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.32,
-          "dieselAmount": 77.42,
-          "lpgAmount": 35.11
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.31,
-          "dieselAmount": 77.42,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -976,19 +976,19 @@
       "provinceName": "IGDIR",
       "prices": {
         "shell": {
-          "gasolineAmount": 65.15,
-          "dieselAmount": 78.21,
-          "lpgAmount": 40.33
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.97,
-          "dieselAmount": 78.08,
-          "lpgAmount": 42.6
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 65.2,
-          "dieselAmount": 78.28,
-          "lpgAmount": 36.09
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
           "gasolineAmount": null,
@@ -1002,77 +1002,49 @@
       "provinceName": "ISPARTA",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.68,
-          "dieselAmount": 77.9,
-          "lpgAmount": 37.42
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.71,
-          "dieselAmount": 77.94,
-          "lpgAmount": 42.52
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.74,
-          "dieselAmount": 77.93,
-          "lpgAmount": 34.94
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.66,
-          "dieselAmount": 77.92,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
     },
     {
       "provinceCode": "034",
-      "provinceName": "ISTANBUL ANADOLU",
-      "districtName": "ANADOLU",
+      "provinceName": "ISTANBUL",
       "prices": {
         "shell": {
-          "gasolineAmount": 62.64,
-          "dieselAmount": 75.53,
-          "lpgAmount": 36.35
-        },
-        "opet": {
-          "gasolineAmount": 62.55,
-          "dieselAmount": 75.49,
-          "lpgAmount": 42.57
-        },
-        "petrolOfisi": {
-          "gasolineAmount": 62.51,
-          "dieselAmount": 75.46,
-          "lpgAmount": 34.39
-        },
-        "totalEnergies": {
-          "gasolineAmount": 62.65,
-          "dieselAmount": 75.59,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
-        }
-      }
-    },
-    {
-      "provinceCode": "034",
-      "provinceName": "ISTANBUL AVRUPA",
-      "districtName": "AVRUPA",
-      "prices": {
-        "shell": {
-          "gasolineAmount": 62.64,
-          "dieselAmount": 75.53,
-          "lpgAmount": 36.35
         },
         "opet": {
-          "gasolineAmount": 62.7,
-          "dieselAmount": 75.61,
-          "lpgAmount": 42.53
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 62.65,
-          "dieselAmount": 75.6,
-          "lpgAmount": 34.99
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 62.65,
-          "dieselAmount": 75.59,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -1082,23 +1054,23 @@
       "provinceName": "IZMIR",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.89,
-          "dieselAmount": 76.94,
-          "lpgAmount": 36.31
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 63.94,
-          "dieselAmount": 77.01,
-          "lpgAmount": 42.47
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 63.9,
-          "dieselAmount": 76.99,
-          "lpgAmount": 34.79
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 63.88,
-          "dieselAmount": 76.97,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -1108,23 +1080,23 @@
       "provinceName": "K.MARAS",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.57,
-          "dieselAmount": 77.67,
-          "lpgAmount": 36.15
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.61,
-          "dieselAmount": 77.72,
-          "lpgAmount": 42.57
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.6,
-          "dieselAmount": 77.7,
-          "lpgAmount": 35.14
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.58,
-          "dieselAmount": 77.71,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -1134,23 +1106,23 @@
       "provinceName": "KARABUK",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.94,
-          "dieselAmount": 76.81,
-          "lpgAmount": 36.36
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 63.99,
-          "dieselAmount": 76.87,
-          "lpgAmount": 42.52
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 63.96,
-          "dieselAmount": 76.84,
-          "lpgAmount": 34.55
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 63.93,
-          "dieselAmount": 76.83,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -1160,23 +1132,23 @@
       "provinceName": "KARAMAN",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.5,
-          "dieselAmount": 77.56,
-          "lpgAmount": 36.69
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.54,
-          "dieselAmount": 77.63,
-          "lpgAmount": 42.62
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.53,
-          "dieselAmount": 77.62,
-          "lpgAmount": 35.41
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.49,
-          "dieselAmount": 77.62,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -1186,24 +1158,24 @@
       "provinceName": "KARS",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.67,
-          "dieselAmount": 77.72,
-          "lpgAmount": 39.84
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.72,
-          "dieselAmount": 77.79,
-          "lpgAmount": 42.57
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.7,
-          "dieselAmount": 77.78,
-          "lpgAmount": 35.89
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.67,
-          "dieselAmount": 77.76,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -1212,23 +1184,23 @@
       "provinceName": "KASTAMONU",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.31,
-          "dieselAmount": 77.34,
-          "lpgAmount": 38.4
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.36,
-          "dieselAmount": 77.41,
-          "lpgAmount": 42.54
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.33,
-          "dieselAmount": 77.41,
-          "lpgAmount": 35.55
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.31,
-          "dieselAmount": 77.37,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -1238,23 +1210,23 @@
       "provinceName": "KAYSERI",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.61,
-          "dieselAmount": 77.67,
-          "lpgAmount": 36.83
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.66,
-          "dieselAmount": 77.74,
-          "lpgAmount": 42.6
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.63,
-          "dieselAmount": 77.72,
-          "lpgAmount": 34.81
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.62,
-          "dieselAmount": 77.72,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -1264,24 +1236,24 @@
       "provinceName": "KILIS",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.3,
-          "dieselAmount": 77.39,
-          "lpgAmount": 35.57
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.36,
-          "dieselAmount": 77.46,
-          "lpgAmount": 42.57
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.34,
-          "dieselAmount": 77.44,
-          "lpgAmount": 35.31
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.31,
-          "dieselAmount": 77.43,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -1290,23 +1262,23 @@
       "provinceName": "KIRIKKALE",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.91,
-          "dieselAmount": 76.97,
-          "lpgAmount": 36.43
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 63.96,
-          "dieselAmount": 77.03,
-          "lpgAmount": 42.47
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 63.93,
-          "dieselAmount": 77.01,
-          "lpgAmount": 34.72
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 63.91,
-          "dieselAmount": 77.02,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -1316,23 +1288,23 @@
       "provinceName": "KIRKLARELI",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.71,
-          "dieselAmount": 76.79,
-          "lpgAmount": 36.55
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 63.77,
-          "dieselAmount": 76.86,
-          "lpgAmount": 42.55
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 63.74,
-          "dieselAmount": 76.85,
-          "lpgAmount": 34.99
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 63.72,
-          "dieselAmount": 76.83,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -1342,23 +1314,23 @@
       "provinceName": "KIRSEHIR",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.95,
-          "dieselAmount": 77.02,
-          "lpgAmount": 37
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64,
-          "dieselAmount": 77.09,
-          "lpgAmount": 42.49
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 63.99,
-          "dieselAmount": 77.07,
-          "lpgAmount": 34.82
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 63.94,
-          "dieselAmount": 77.06,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -1368,23 +1340,23 @@
       "provinceName": "KOCAELI",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.05,
-          "dieselAmount": 75.91,
-          "lpgAmount": 35.93
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 63.1,
-          "dieselAmount": 75.98,
-          "lpgAmount": 42.47
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 63.08,
-          "dieselAmount": 75.96,
-          "lpgAmount": 34.19
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 63.06,
-          "dieselAmount": 75.96,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -1394,23 +1366,23 @@
       "provinceName": "KONYA",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.63,
-          "dieselAmount": 77.84,
-          "lpgAmount": 37.45
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.67,
-          "dieselAmount": 77.89,
-          "lpgAmount": 42.57
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.65,
-          "dieselAmount": 77.87,
-          "lpgAmount": 34.91
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.63,
-          "dieselAmount": 77.88,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -1420,23 +1392,23 @@
       "provinceName": "KUTAHYA",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.57,
-          "dieselAmount": 77.46,
-          "lpgAmount": 36.82
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.58,
-          "dieselAmount": 77.49,
-          "lpgAmount": 42.51
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.57,
-          "dieselAmount": 77.47,
-          "lpgAmount": 34.94
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.54,
-          "dieselAmount": 77.47,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -1446,24 +1418,24 @@
       "provinceName": "MALATYA",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.78,
-          "dieselAmount": 77.86,
-          "lpgAmount": 36.71
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.83,
-          "dieselAmount": 77.92,
-          "lpgAmount": 42.61
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.81,
-          "dieselAmount": 77.91,
-          "lpgAmount": 35.47
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.79,
-          "dieselAmount": 77.89,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -1472,23 +1444,23 @@
       "provinceName": "MANISA",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.97,
-          "dieselAmount": 77.02,
-          "lpgAmount": 36.14
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.02,
-          "dieselAmount": 77.08,
-          "lpgAmount": 42.47
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 63.98,
-          "dieselAmount": 77.07,
-          "lpgAmount": 34.84
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 63.97,
-          "dieselAmount": 77.05,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -1498,24 +1470,24 @@
       "provinceName": "MARDIN",
       "prices": {
         "shell": {
-          "gasolineAmount": 65.1,
-          "dieselAmount": 78.27,
-          "lpgAmount": 37.76
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 65.14,
-          "dieselAmount": 78.32,
-          "lpgAmount": 42.63
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 65.13,
-          "dieselAmount": 78.33,
-          "lpgAmount": 35.44
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 65.1,
-          "dieselAmount": 78.29,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -1524,23 +1496,23 @@
       "provinceName": "MERSIN",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.45,
-          "dieselAmount": 77.5,
-          "lpgAmount": 36.67
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.48,
-          "dieselAmount": 77.55,
-          "lpgAmount": 42.59
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.46,
-          "dieselAmount": 77.55,
-          "lpgAmount": 35.61
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.46,
-          "dieselAmount": 77.55,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -1550,23 +1522,23 @@
       "provinceName": "MUGLA",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.37,
-          "dieselAmount": 77.45,
-          "lpgAmount": 38.01
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.42,
-          "dieselAmount": 77.51,
-          "lpgAmount": 42.51
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.4,
-          "dieselAmount": 77.49,
-          "lpgAmount": 34.84
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.38,
-          "dieselAmount": 77.49,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -1576,24 +1548,24 @@
       "provinceName": "MUS",
       "prices": {
         "shell": {
-          "gasolineAmount": 65.18,
-          "dieselAmount": 78.35,
-          "lpgAmount": 39.09
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 65.19,
-          "dieselAmount": 78.38,
-          "lpgAmount": 42.67
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 65.23,
-          "dieselAmount": 78.43,
-          "lpgAmount": 35.78
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 65.14,
-          "dieselAmount": 78.35,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -1602,23 +1574,23 @@
       "provinceName": "NEVSEHIR",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.52,
-          "dieselAmount": 77.59,
-          "lpgAmount": 36.84
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.56,
-          "dieselAmount": 77.65,
-          "lpgAmount": 42.59
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.53,
-          "dieselAmount": 77.62,
-          "lpgAmount": 34.91
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.51,
-          "dieselAmount": 77.62,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -1628,24 +1600,24 @@
       "provinceName": "NIGDE",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.43,
-          "dieselAmount": 77.51,
-          "lpgAmount": 36.26
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.48,
-          "dieselAmount": 77.56,
-          "lpgAmount": 42.57
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.48,
-          "dieselAmount": 77.57,
-          "lpgAmount": 34.71
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.43,
-          "dieselAmount": 77.53,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -1654,23 +1626,23 @@
       "provinceName": "ORDU",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.22,
-          "dieselAmount": 77.24,
-          "lpgAmount": 36.78
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.27,
-          "dieselAmount": 77.31,
-          "lpgAmount": 42.52
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.23,
-          "dieselAmount": 77.3,
-          "lpgAmount": 35.09
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.23,
-          "dieselAmount": 77.28,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -1680,24 +1652,24 @@
       "provinceName": "OSMANIYE",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.3,
-          "dieselAmount": 77.37,
-          "lpgAmount": 34.91
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.35,
-          "dieselAmount": 77.45,
-          "lpgAmount": 42.56
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.33,
-          "dieselAmount": 77.43,
-          "lpgAmount": 35.44
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.3,
-          "dieselAmount": 77.42,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -1706,23 +1678,23 @@
       "provinceName": "RIZE",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.37,
-          "dieselAmount": 77.41,
-          "lpgAmount": 37.85
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.41,
-          "dieselAmount": 77.47,
-          "lpgAmount": 42.51
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.38,
-          "dieselAmount": 77.46,
-          "lpgAmount": 35.59
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.38,
-          "dieselAmount": 77.45,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -1732,23 +1704,23 @@
       "provinceName": "SAKARYA",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.37,
-          "dieselAmount": 76.21,
-          "lpgAmount": 36.03
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 63.42,
-          "dieselAmount": 76.28,
-          "lpgAmount": 42.48
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 63.38,
-          "dieselAmount": 76.26,
-          "lpgAmount": 34.29
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 63.38,
-          "dieselAmount": 76.26,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -1758,23 +1730,23 @@
       "provinceName": "SAMSUN",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.2,
-          "dieselAmount": 77.24,
-          "lpgAmount": 36.81
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.24,
-          "dieselAmount": 77.3,
-          "lpgAmount": 42.5
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.21,
-          "dieselAmount": 77.28,
-          "lpgAmount": 35.09
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.2,
-          "dieselAmount": 77.27,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -1784,24 +1756,24 @@
       "provinceName": "SANLIURFA",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.77,
-          "dieselAmount": 77.84,
-          "lpgAmount": 37.07
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.81,
-          "dieselAmount": 77.9,
-          "lpgAmount": 42.6
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.79,
-          "dieselAmount": 77.89,
-          "lpgAmount": 35.46
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.76,
-          "dieselAmount": 77.87,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -1810,24 +1782,24 @@
       "provinceName": "SIIRT",
       "prices": {
         "shell": {
-          "gasolineAmount": 65.13,
-          "dieselAmount": 78.28,
-          "lpgAmount": 38
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 65.17,
-          "dieselAmount": 78.35,
-          "lpgAmount": 42.61
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 65.12,
-          "dieselAmount": 78.32,
-          "lpgAmount": 35.64
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 65.12,
-          "dieselAmount": 78.32,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -1836,24 +1808,24 @@
       "provinceName": "SINOP",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.25,
-          "dieselAmount": 77.3,
-          "lpgAmount": 37.34
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.3,
-          "dieselAmount": 77.36,
-          "lpgAmount": 42.52
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.27,
-          "dieselAmount": 77.34,
-          "lpgAmount": 35.59
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.25,
-          "dieselAmount": 77.33,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -1862,24 +1834,24 @@
       "provinceName": "SIRNAK",
       "prices": {
         "shell": {
-          "gasolineAmount": 65.18,
-          "dieselAmount": 78.35,
-          "lpgAmount": 38.32
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 65.22,
-          "dieselAmount": 78.41,
-          "lpgAmount": 42.61
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 65.23,
-          "dieselAmount": 78.43,
-          "lpgAmount": 35.75
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 65.17,
-          "dieselAmount": 78.38,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -1888,23 +1860,23 @@
       "provinceName": "SIVAS",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.63,
-          "dieselAmount": 77.67,
-          "lpgAmount": 38.39
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.66,
-          "dieselAmount": 77.72,
-          "lpgAmount": 42.55
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.63,
-          "dieselAmount": 77.71,
-          "lpgAmount": 35.39
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.6,
-          "dieselAmount": 77.68,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -1914,23 +1886,23 @@
       "provinceName": "TEKIRDAG",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.32,
-          "dieselAmount": 76.39,
-          "lpgAmount": 36.21
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 63.37,
-          "dieselAmount": 76.46,
-          "lpgAmount": 42.53
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 63.33,
-          "dieselAmount": 76.44,
-          "lpgAmount": 34.79
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 63.33,
-          "dieselAmount": 76.44,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -1940,23 +1912,23 @@
       "provinceName": "TOKAT",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.25,
-          "dieselAmount": 77.29,
-          "lpgAmount": 37.32
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.3,
-          "dieselAmount": 77.36,
-          "lpgAmount": 42.53
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.28,
-          "dieselAmount": 77.35,
-          "lpgAmount": 35.59
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.25,
-          "dieselAmount": 77.33,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -1966,23 +1938,23 @@
       "provinceName": "TRABZON",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.36,
-          "dieselAmount": 77.41,
-          "lpgAmount": 37.91
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.4,
-          "dieselAmount": 77.46,
-          "lpgAmount": 42.5
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.37,
-          "dieselAmount": 77.45,
-          "lpgAmount": 35.19
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.35,
-          "dieselAmount": 77.43,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -1992,24 +1964,24 @@
       "provinceName": "TUNCELI",
       "prices": {
         "shell": {
-          "gasolineAmount": 65.18,
-          "dieselAmount": 78.35,
-          "lpgAmount": 37.74
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 65.17,
-          "dieselAmount": 78.34,
-          "lpgAmount": 42.6
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 65.23,
-          "dieselAmount": 78.43,
-          "lpgAmount": 36.01
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 65.13,
-          "dieselAmount": 78.35,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -2018,23 +1990,23 @@
       "provinceName": "USAK",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.35,
-          "dieselAmount": 77.42,
-          "lpgAmount": 36.44
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.39,
-          "dieselAmount": 77.49,
-          "lpgAmount": 42.5
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.4,
-          "dieselAmount": 77.49,
-          "lpgAmount": 34.95
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.35,
-          "dieselAmount": 77.47,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -2044,24 +2016,24 @@
       "provinceName": "VAN",
       "prices": {
         "shell": {
-          "gasolineAmount": 65.2,
-          "dieselAmount": 78.3,
-          "lpgAmount": 39.63
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 65.24,
-          "dieselAmount": 78.36,
-          "lpgAmount": 42.64
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 65.21,
-          "dieselAmount": 78.32,
-          "lpgAmount": 35.41
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 65.19,
-          "dieselAmount": 78.33,
-          "lpgAmount": 0
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         }
       }
     },
@@ -2070,23 +2042,23 @@
       "provinceName": "YALOVA",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.35,
-          "dieselAmount": 76.21,
-          "lpgAmount": 35.3
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 63.38,
-          "dieselAmount": 76.26,
-          "lpgAmount": 42.48
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 63.39,
-          "dieselAmount": 76.27,
-          "lpgAmount": 34.29
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 63.32,
-          "dieselAmount": 76.22,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -2096,23 +2068,23 @@
       "provinceName": "YOZGAT",
       "prices": {
         "shell": {
-          "gasolineAmount": 64.3,
-          "dieselAmount": 77.35,
-          "lpgAmount": 38.56
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 64.34,
-          "dieselAmount": 77.42,
-          "lpgAmount": 42.5
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 64.32,
-          "dieselAmount": 77.4,
-          "lpgAmount": 35.02
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 64.31,
-          "dieselAmount": 77.4,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
@@ -2122,23 +2094,23 @@
       "provinceName": "ZONGULDAK",
       "prices": {
         "shell": {
-          "gasolineAmount": 63.88,
-          "dieselAmount": 76.73,
-          "lpgAmount": 36.36
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "opet": {
-          "gasolineAmount": 63.93,
-          "dieselAmount": 76.81,
-          "lpgAmount": 42.51
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "petrolOfisi": {
-          "gasolineAmount": 63.9,
-          "dieselAmount": 76.78,
-          "lpgAmount": 34.95
+          "gasolineAmount": null,
+          "dieselAmount": null,
+          "lpgAmount": null
         },
         "totalEnergies": {
-          "gasolineAmount": 63.87,
-          "dieselAmount": 76.77,
+          "gasolineAmount": null,
+          "dieselAmount": null,
           "lpgAmount": null
         }
       }
