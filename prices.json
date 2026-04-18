@@ -1,12 +1,12 @@
 {
   "generatedAt": {
-    "day": "17",
+    "day": "18",
     "month": "04",
     "year": "2026",
     "hour": "06",
-    "minute": "59",
-    "second": "03",
-    "formatted": "17.04.2026 06:59:03"
+    "minute": "43",
+    "second": "57",
+    "formatted": "18.04.2026 06:43:57"
   },
   "provinces": [
     {
@@ -29,8 +29,8 @@
           "lpgAmount": 35.31
         },
         "totalEnergies": {
-          "gasolineAmount": 64.44,
-          "dieselAmount": 73.5,
+          "gasolineAmount": 64.5,
+          "dieselAmount": 73.56,
           "lpgAmount": null
         }
       }
@@ -55,8 +55,8 @@
           "lpgAmount": 35.44
         },
         "totalEnergies": {
-          "gasolineAmount": 64.8,
-          "dieselAmount": 73.87,
+          "gasolineAmount": 64.86,
+          "dieselAmount": 73.93,
           "lpgAmount": 0
         }
       }
@@ -81,8 +81,8 @@
           "lpgAmount": 34.84
         },
         "totalEnergies": {
-          "gasolineAmount": 64.66,
-          "dieselAmount": 73.86,
+          "gasolineAmount": 64.72,
+          "dieselAmount": 73.92,
           "lpgAmount": 0
         }
       }
@@ -107,8 +107,8 @@
           "lpgAmount": 36.09
         },
         "totalEnergies": {
-          "gasolineAmount": 65.16,
-          "dieselAmount": 74.19,
+          "gasolineAmount": 65.22,
+          "dieselAmount": 74.25,
           "lpgAmount": 0
         }
       }
@@ -133,8 +133,8 @@
           "lpgAmount": 34.71
         },
         "totalEnergies": {
-          "gasolineAmount": 64.54,
-          "dieselAmount": 73.57,
+          "gasolineAmount": 64.6,
+          "dieselAmount": 73.63,
           "lpgAmount": 0
         }
       }
@@ -159,8 +159,8 @@
           "lpgAmount": 35.49
         },
         "totalEnergies": {
-          "gasolineAmount": 64.2,
-          "dieselAmount": 73.25,
+          "gasolineAmount": 64.26,
+          "dieselAmount": 73.31,
           "lpgAmount": 0
         }
       }
@@ -185,8 +185,8 @@
           "lpgAmount": 34.87
         },
         "totalEnergies": {
-          "gasolineAmount": 63.6,
-          "dieselAmount": 72.67,
+          "gasolineAmount": 63.66,
+          "dieselAmount": 72.73,
           "lpgAmount": 0
         }
       }
@@ -211,8 +211,8 @@
           "lpgAmount": 35.04
         },
         "totalEnergies": {
-          "gasolineAmount": 64.86,
-          "dieselAmount": 74.02,
+          "gasolineAmount": 64.92,
+          "dieselAmount": 74.08,
           "lpgAmount": null
         }
       }
@@ -237,8 +237,8 @@
           "lpgAmount": 35.79
         },
         "totalEnergies": {
-          "gasolineAmount": 64.67,
-          "dieselAmount": 73.74,
+          "gasolineAmount": 64.73,
+          "dieselAmount": 73.8,
           "lpgAmount": 0
         }
       }
@@ -263,8 +263,8 @@
           "lpgAmount": 36.34
         },
         "totalEnergies": {
-          "gasolineAmount": 64.5,
-          "dieselAmount": 73.55,
+          "gasolineAmount": 64.56,
+          "dieselAmount": 73.61,
           "lpgAmount": 0
         }
       }
@@ -289,8 +289,8 @@
           "lpgAmount": 34.94
         },
         "totalEnergies": {
-          "gasolineAmount": 64.1,
-          "dieselAmount": 73.18,
+          "gasolineAmount": 64.16,
+          "dieselAmount": 73.24,
           "lpgAmount": 0
         }
       }
@@ -315,8 +315,8 @@
           "lpgAmount": 34.49
         },
         "totalEnergies": {
-          "gasolineAmount": 64.18,
-          "dieselAmount": 73.25,
+          "gasolineAmount": 64.24,
+          "dieselAmount": 73.31,
           "lpgAmount": null
         }
       }
@@ -341,8 +341,8 @@
           "lpgAmount": 34.55
         },
         "totalEnergies": {
-          "gasolineAmount": 63.92,
-          "dieselAmount": 72.8,
+          "gasolineAmount": 63.98,
+          "dieselAmount": 72.86,
           "lpgAmount": 0
         }
       }
@@ -367,8 +367,8 @@
           "lpgAmount": 35.44
         },
         "totalEnergies": {
-          "gasolineAmount": 65.08,
-          "dieselAmount": 74.25,
+          "gasolineAmount": 65.14,
+          "dieselAmount": 74.31,
           "lpgAmount": 0
         }
       }
@@ -393,8 +393,8 @@
           "lpgAmount": 35.69
         },
         "totalEnergies": {
-          "gasolineAmount": 64.37,
-          "dieselAmount": 73.43,
+          "gasolineAmount": 64.43,
+          "dieselAmount": 73.49,
           "lpgAmount": 0
         }
       }
@@ -419,8 +419,8 @@
           "lpgAmount": 34.39
         },
         "totalEnergies": {
-          "gasolineAmount": 63.57,
-          "dieselAmount": 72.42,
+          "gasolineAmount": 63.63,
+          "dieselAmount": 72.48,
           "lpgAmount": 0
         }
       }
@@ -445,8 +445,8 @@
           "lpgAmount": 35.69
         },
         "totalEnergies": {
-          "gasolineAmount": 65.14,
-          "dieselAmount": 74.32,
+          "gasolineAmount": 65.2,
+          "dieselAmount": 74.38,
           "lpgAmount": 0
         }
       }
@@ -471,8 +471,8 @@
           "lpgAmount": 35.51
         },
         "totalEnergies": {
-          "gasolineAmount": 65.19,
-          "dieselAmount": 74.4,
+          "gasolineAmount": 65.25,
+          "dieselAmount": 74.46,
           "lpgAmount": 0
         }
       }
@@ -497,8 +497,8 @@
           "lpgAmount": 34.7
         },
         "totalEnergies": {
-          "gasolineAmount": 63.69,
-          "dieselAmount": 72.54,
+          "gasolineAmount": 63.75,
+          "dieselAmount": 72.6,
           "lpgAmount": 0
         }
       }
@@ -523,8 +523,8 @@
           "lpgAmount": 34.99
         },
         "totalEnergies": {
-          "gasolineAmount": 64.65,
-          "dieselAmount": 73.81,
+          "gasolineAmount": 64.71,
+          "dieselAmount": 73.87,
           "lpgAmount": null
         }
       }
@@ -549,8 +549,8 @@
           "lpgAmount": 34.39
         },
         "totalEnergies": {
-          "gasolineAmount": 63.69,
-          "dieselAmount": 72.56,
+          "gasolineAmount": 63.75,
+          "dieselAmount": 72.62,
           "lpgAmount": 0
         }
       }
@@ -575,8 +575,8 @@
           "lpgAmount": 34.59
         },
         "totalEnergies": {
-          "gasolineAmount": 64.25,
-          "dieselAmount": 73.3,
+          "gasolineAmount": 64.31,
+          "dieselAmount": 73.36,
           "lpgAmount": null
         }
       }
@@ -601,8 +601,8 @@
           "lpgAmount": 35.1
         },
         "totalEnergies": {
-          "gasolineAmount": 64.01,
-          "dieselAmount": 73.08,
+          "gasolineAmount": 64.07,
+          "dieselAmount": 73.14,
           "lpgAmount": 0
         }
       }
@@ -627,8 +627,8 @@
           "lpgAmount": 35.04
         },
         "totalEnergies": {
-          "gasolineAmount": 64.21,
-          "dieselAmount": 73.25,
+          "gasolineAmount": 64.27,
+          "dieselAmount": 73.31,
           "lpgAmount": 0
         }
       }
@@ -653,8 +653,8 @@
           "lpgAmount": 34.69
         },
         "totalEnergies": {
-          "gasolineAmount": 64.34,
-          "dieselAmount": 73.47,
+          "gasolineAmount": 64.4,
+          "dieselAmount": 73.53,
           "lpgAmount": null
         }
       }
@@ -679,8 +679,8 @@
           "lpgAmount": 35.56
         },
         "totalEnergies": {
-          "gasolineAmount": 65.07,
-          "dieselAmount": 74.25,
+          "gasolineAmount": 65.13,
+          "dieselAmount": 74.31,
           "lpgAmount": 0
         }
       }
@@ -705,8 +705,8 @@
           "lpgAmount": 34.55
         },
         "totalEnergies": {
-          "gasolineAmount": 63.53,
-          "dieselAmount": 72.39,
+          "gasolineAmount": 63.59,
+          "dieselAmount": 72.45,
           "lpgAmount": null
         }
       }
@@ -731,8 +731,8 @@
           "lpgAmount": 35.09
         },
         "totalEnergies": {
-          "gasolineAmount": 63.73,
-          "dieselAmount": 72.82,
+          "gasolineAmount": 63.79,
+          "dieselAmount": 72.88,
           "lpgAmount": 0
         }
       }
@@ -757,8 +757,8 @@
           "lpgAmount": 35.31
         },
         "totalEnergies": {
-          "gasolineAmount": 65.19,
-          "dieselAmount": 74.38,
+          "gasolineAmount": 65.25,
+          "dieselAmount": 74.44,
           "lpgAmount": 0
         }
       }
@@ -783,8 +783,8 @@
           "lpgAmount": 35.69
         },
         "totalEnergies": {
-          "gasolineAmount": 64.61,
-          "dieselAmount": 73.67,
+          "gasolineAmount": 64.67,
+          "dieselAmount": 73.73,
           "lpgAmount": 0
         }
       }
@@ -809,8 +809,8 @@
           "lpgAmount": 35.49
         },
         "totalEnergies": {
-          "gasolineAmount": 64.66,
-          "dieselAmount": 73.73,
+          "gasolineAmount": 64.72,
+          "dieselAmount": 73.79,
           "lpgAmount": 0
         }
       }
@@ -835,8 +835,8 @@
           "lpgAmount": 34.49
         },
         "totalEnergies": {
-          "gasolineAmount": 63.88,
-          "dieselAmount": 72.75,
+          "gasolineAmount": 63.94,
+          "dieselAmount": 72.81,
           "lpgAmount": null
         }
       }
@@ -861,8 +861,8 @@
           "lpgAmount": 35.01
         },
         "totalEnergies": {
-          "gasolineAmount": 64.58,
-          "dieselAmount": 73.63,
+          "gasolineAmount": 64.64,
+          "dieselAmount": 73.69,
           "lpgAmount": 0
         }
       }
@@ -887,8 +887,8 @@
           "lpgAmount": 35.49
         },
         "totalEnergies": {
-          "gasolineAmount": 64.42,
-          "dieselAmount": 73.49,
+          "gasolineAmount": 64.48,
+          "dieselAmount": 73.55,
           "lpgAmount": 0
         }
       }
@@ -913,8 +913,8 @@
           "lpgAmount": 35.59
         },
         "totalEnergies": {
-          "gasolineAmount": 64.38,
-          "dieselAmount": 73.43,
+          "gasolineAmount": 64.44,
+          "dieselAmount": 73.49,
           "lpgAmount": 0
         }
       }
@@ -939,8 +939,8 @@
           "lpgAmount": 36.17
         },
         "totalEnergies": {
-          "gasolineAmount": 65.22,
-          "dieselAmount": 74.4,
+          "gasolineAmount": 65.28,
+          "dieselAmount": 74.46,
           "lpgAmount": 0
         }
       }
@@ -965,8 +965,8 @@
           "lpgAmount": 35.11
         },
         "totalEnergies": {
-          "gasolineAmount": 64.31,
-          "dieselAmount": 73.39,
+          "gasolineAmount": 64.37,
+          "dieselAmount": 73.45,
           "lpgAmount": 0
         }
       }
@@ -1017,8 +1017,8 @@
           "lpgAmount": 34.94
         },
         "totalEnergies": {
-          "gasolineAmount": 64.66,
-          "dieselAmount": 73.89,
+          "gasolineAmount": 64.72,
+          "dieselAmount": 73.95,
           "lpgAmount": null
         }
       }
@@ -1044,8 +1044,8 @@
           "lpgAmount": 34.39
         },
         "totalEnergies": {
-          "gasolineAmount": 62.65,
-          "dieselAmount": 71.56,
+          "gasolineAmount": 62.71,
+          "dieselAmount": 71.62,
           "lpgAmount": null
         }
       }
@@ -1071,8 +1071,8 @@
           "lpgAmount": 34.99
         },
         "totalEnergies": {
-          "gasolineAmount": 62.65,
-          "dieselAmount": 71.56,
+          "gasolineAmount": 62.71,
+          "dieselAmount": 71.62,
           "lpgAmount": null
         }
       }
@@ -1097,8 +1097,8 @@
           "lpgAmount": 34.79
         },
         "totalEnergies": {
-          "gasolineAmount": 63.88,
-          "dieselAmount": 72.94,
+          "gasolineAmount": 63.94,
+          "dieselAmount": 73,
           "lpgAmount": null
         }
       }
@@ -1123,8 +1123,8 @@
           "lpgAmount": 35.14
         },
         "totalEnergies": {
-          "gasolineAmount": 64.58,
-          "dieselAmount": 73.68,
+          "gasolineAmount": 64.64,
+          "dieselAmount": 73.74,
           "lpgAmount": null
         }
       }
@@ -1149,8 +1149,8 @@
           "lpgAmount": 34.55
         },
         "totalEnergies": {
-          "gasolineAmount": 63.93,
-          "dieselAmount": 72.8,
+          "gasolineAmount": 63.99,
+          "dieselAmount": 72.86,
           "lpgAmount": null
         }
       }
@@ -1175,8 +1175,8 @@
           "lpgAmount": 35.41
         },
         "totalEnergies": {
-          "gasolineAmount": 64.49,
-          "dieselAmount": 73.59,
+          "gasolineAmount": 64.55,
+          "dieselAmount": 73.65,
           "lpgAmount": null
         }
       }
@@ -1201,8 +1201,8 @@
           "lpgAmount": 35.89
         },
         "totalEnergies": {
-          "gasolineAmount": 64.67,
-          "dieselAmount": 73.73,
+          "gasolineAmount": 64.73,
+          "dieselAmount": 73.79,
           "lpgAmount": 0
         }
       }
@@ -1227,8 +1227,8 @@
           "lpgAmount": 35.55
         },
         "totalEnergies": {
-          "gasolineAmount": 64.31,
-          "dieselAmount": 73.34,
+          "gasolineAmount": 64.37,
+          "dieselAmount": 73.4,
           "lpgAmount": null
         }
       }
@@ -1253,8 +1253,8 @@
           "lpgAmount": 34.81
         },
         "totalEnergies": {
-          "gasolineAmount": 64.62,
-          "dieselAmount": 73.69,
+          "gasolineAmount": 64.68,
+          "dieselAmount": 73.75,
           "lpgAmount": null
         }
       }
@@ -1279,8 +1279,8 @@
           "lpgAmount": 35.31
         },
         "totalEnergies": {
-          "gasolineAmount": 64.31,
-          "dieselAmount": 73.4,
+          "gasolineAmount": 64.37,
+          "dieselAmount": 73.46,
           "lpgAmount": 0
         }
       }
@@ -1305,8 +1305,8 @@
           "lpgAmount": 34.72
         },
         "totalEnergies": {
-          "gasolineAmount": 63.91,
-          "dieselAmount": 72.99,
+          "gasolineAmount": 63.97,
+          "dieselAmount": 73.05,
           "lpgAmount": null
         }
       }
@@ -1331,8 +1331,8 @@
           "lpgAmount": 34.99
         },
         "totalEnergies": {
-          "gasolineAmount": 63.72,
-          "dieselAmount": 72.8,
+          "gasolineAmount": 63.78,
+          "dieselAmount": 72.86,
           "lpgAmount": null
         }
       }
@@ -1357,8 +1357,8 @@
           "lpgAmount": 34.82
         },
         "totalEnergies": {
-          "gasolineAmount": 63.94,
-          "dieselAmount": 73.03,
+          "gasolineAmount": 64,
+          "dieselAmount": 73.09,
           "lpgAmount": null
         }
       }
@@ -1383,8 +1383,8 @@
           "lpgAmount": 34.19
         },
         "totalEnergies": {
-          "gasolineAmount": 63.06,
-          "dieselAmount": 71.93,
+          "gasolineAmount": 63.12,
+          "dieselAmount": 71.99,
           "lpgAmount": null
         }
       }
@@ -1409,8 +1409,8 @@
           "lpgAmount": 34.91
         },
         "totalEnergies": {
-          "gasolineAmount": 64.63,
-          "dieselAmount": 73.85,
+          "gasolineAmount": 64.69,
+          "dieselAmount": 73.91,
           "lpgAmount": null
         }
       }
@@ -1435,8 +1435,8 @@
           "lpgAmount": 34.94
         },
         "totalEnergies": {
-          "gasolineAmount": 64.54,
-          "dieselAmount": 73.44,
+          "gasolineAmount": 64.6,
+          "dieselAmount": 73.5,
           "lpgAmount": null
         }
       }
@@ -1461,8 +1461,8 @@
           "lpgAmount": 35.47
         },
         "totalEnergies": {
-          "gasolineAmount": 64.79,
-          "dieselAmount": 73.86,
+          "gasolineAmount": 64.85,
+          "dieselAmount": 73.92,
           "lpgAmount": 0
         }
       }
@@ -1487,8 +1487,8 @@
           "lpgAmount": 34.84
         },
         "totalEnergies": {
-          "gasolineAmount": 63.97,
-          "dieselAmount": 73.02,
+          "gasolineAmount": 64.03,
+          "dieselAmount": 73.08,
           "lpgAmount": null
         }
       }
@@ -1513,8 +1513,8 @@
           "lpgAmount": 35.44
         },
         "totalEnergies": {
-          "gasolineAmount": 65.1,
-          "dieselAmount": 74.26,
+          "gasolineAmount": 65.16,
+          "dieselAmount": 74.32,
           "lpgAmount": 0
         }
       }
@@ -1539,8 +1539,8 @@
           "lpgAmount": 35.61
         },
         "totalEnergies": {
-          "gasolineAmount": 64.46,
-          "dieselAmount": 73.52,
+          "gasolineAmount": 64.52,
+          "dieselAmount": 73.58,
           "lpgAmount": null
         }
       }
@@ -1565,8 +1565,8 @@
           "lpgAmount": 34.84
         },
         "totalEnergies": {
-          "gasolineAmount": 64.38,
-          "dieselAmount": 73.46,
+          "gasolineAmount": 64.44,
+          "dieselAmount": 73.52,
           "lpgAmount": null
         }
       }
@@ -1591,8 +1591,8 @@
           "lpgAmount": 35.78
         },
         "totalEnergies": {
-          "gasolineAmount": 65.14,
-          "dieselAmount": 74.32,
+          "gasolineAmount": 65.2,
+          "dieselAmount": 74.38,
           "lpgAmount": 0
         }
       }
@@ -1617,8 +1617,8 @@
           "lpgAmount": 34.91
         },
         "totalEnergies": {
-          "gasolineAmount": 64.51,
-          "dieselAmount": 73.59,
+          "gasolineAmount": 64.57,
+          "dieselAmount": 73.65,
           "lpgAmount": null
         }
       }
@@ -1643,8 +1643,8 @@
           "lpgAmount": 34.71
         },
         "totalEnergies": {
-          "gasolineAmount": 64.43,
-          "dieselAmount": 73.5,
+          "gasolineAmount": 64.49,
+          "dieselAmount": 73.56,
           "lpgAmount": 0
         }
       }
@@ -1669,8 +1669,8 @@
           "lpgAmount": 35.09
         },
         "totalEnergies": {
-          "gasolineAmount": 64.23,
-          "dieselAmount": 73.25,
+          "gasolineAmount": 64.29,
+          "dieselAmount": 73.31,
           "lpgAmount": null
         }
       }
@@ -1695,8 +1695,8 @@
           "lpgAmount": 35.44
         },
         "totalEnergies": {
-          "gasolineAmount": 64.3,
-          "dieselAmount": 73.39,
+          "gasolineAmount": 64.36,
+          "dieselAmount": 73.45,
           "lpgAmount": 0
         }
       }
@@ -1721,8 +1721,8 @@
           "lpgAmount": 35.59
         },
         "totalEnergies": {
-          "gasolineAmount": 64.38,
-          "dieselAmount": 73.42,
+          "gasolineAmount": 64.44,
+          "dieselAmount": 73.48,
           "lpgAmount": null
         }
       }
@@ -1747,8 +1747,8 @@
           "lpgAmount": 34.29
         },
         "totalEnergies": {
-          "gasolineAmount": 63.38,
-          "dieselAmount": 72.23,
+          "gasolineAmount": 63.44,
+          "dieselAmount": 72.29,
           "lpgAmount": null
         }
       }
@@ -1773,8 +1773,8 @@
           "lpgAmount": 35.09
         },
         "totalEnergies": {
-          "gasolineAmount": 64.2,
-          "dieselAmount": 73.24,
+          "gasolineAmount": 64.26,
+          "dieselAmount": 73.3,
           "lpgAmount": null
         }
       }
@@ -1799,8 +1799,8 @@
           "lpgAmount": 35.46
         },
         "totalEnergies": {
-          "gasolineAmount": 64.76,
-          "dieselAmount": 73.84,
+          "gasolineAmount": 64.82,
+          "dieselAmount": 73.9,
           "lpgAmount": 0
         }
       }
@@ -1825,8 +1825,8 @@
           "lpgAmount": 35.64
         },
         "totalEnergies": {
-          "gasolineAmount": 65.12,
-          "dieselAmount": 74.29,
+          "gasolineAmount": 65.18,
+          "dieselAmount": 74.35,
           "lpgAmount": 0
         }
       }
@@ -1851,8 +1851,8 @@
           "lpgAmount": 35.59
         },
         "totalEnergies": {
-          "gasolineAmount": 64.25,
-          "dieselAmount": 73.3,
+          "gasolineAmount": 64.31,
+          "dieselAmount": 73.36,
           "lpgAmount": 0
         }
       }
@@ -1877,8 +1877,8 @@
           "lpgAmount": 35.75
         },
         "totalEnergies": {
-          "gasolineAmount": 65.17,
-          "dieselAmount": 74.35,
+          "gasolineAmount": 65.23,
+          "dieselAmount": 74.41,
           "lpgAmount": 0
         }
       }
@@ -1903,8 +1903,8 @@
           "lpgAmount": 35.39
         },
         "totalEnergies": {
-          "gasolineAmount": 64.6,
-          "dieselAmount": 73.65,
+          "gasolineAmount": 64.66,
+          "dieselAmount": 73.71,
           "lpgAmount": null
         }
       }
@@ -1929,8 +1929,8 @@
           "lpgAmount": 34.79
         },
         "totalEnergies": {
-          "gasolineAmount": 63.33,
-          "dieselAmount": 72.41,
+          "gasolineAmount": 63.39,
+          "dieselAmount": 72.47,
           "lpgAmount": null
         }
       }
@@ -1955,8 +1955,8 @@
           "lpgAmount": 35.59
         },
         "totalEnergies": {
-          "gasolineAmount": 64.25,
-          "dieselAmount": 73.3,
+          "gasolineAmount": 64.31,
+          "dieselAmount": 73.36,
           "lpgAmount": null
         }
       }
@@ -1981,8 +1981,8 @@
           "lpgAmount": 35.19
         },
         "totalEnergies": {
-          "gasolineAmount": 64.35,
-          "dieselAmount": 73.4,
+          "gasolineAmount": 64.41,
+          "dieselAmount": 73.46,
           "lpgAmount": null
         }
       }
@@ -2007,8 +2007,8 @@
           "lpgAmount": 36.01
         },
         "totalEnergies": {
-          "gasolineAmount": 65.13,
-          "dieselAmount": 74.32,
+          "gasolineAmount": 65.19,
+          "dieselAmount": 74.38,
           "lpgAmount": 0
         }
       }
@@ -2033,8 +2033,8 @@
           "lpgAmount": 34.95
         },
         "totalEnergies": {
-          "gasolineAmount": 64.35,
-          "dieselAmount": 73.44,
+          "gasolineAmount": 64.41,
+          "dieselAmount": 73.5,
           "lpgAmount": null
         }
       }
@@ -2059,8 +2059,8 @@
           "lpgAmount": 35.41
         },
         "totalEnergies": {
-          "gasolineAmount": 65.19,
-          "dieselAmount": 74.3,
+          "gasolineAmount": 65.25,
+          "dieselAmount": 74.36,
           "lpgAmount": 0
         }
       }
@@ -2085,8 +2085,8 @@
           "lpgAmount": 34.29
         },
         "totalEnergies": {
-          "gasolineAmount": 63.32,
-          "dieselAmount": 72.19,
+          "gasolineAmount": 63.38,
+          "dieselAmount": 72.25,
           "lpgAmount": null
         }
       }
@@ -2111,8 +2111,8 @@
           "lpgAmount": 35.02
         },
         "totalEnergies": {
-          "gasolineAmount": 64.31,
-          "dieselAmount": 73.37,
+          "gasolineAmount": 64.37,
+          "dieselAmount": 73.43,
           "lpgAmount": null
         }
       }
@@ -2137,8 +2137,8 @@
           "lpgAmount": 34.95
         },
         "totalEnergies": {
-          "gasolineAmount": 63.87,
-          "dieselAmount": 72.74,
+          "gasolineAmount": 63.93,
+          "dieselAmount": 72.8,
           "lpgAmount": null
         }
       }
