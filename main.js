@@ -6,6 +6,9 @@ const PETROL_OFISI_URL = "https://www.petrolofisi.com.tr/akaryakit-fiyatlari";
 const OPET_PRICES_URL = "https://api.opet.com.tr/api/fuelprices/prices";
 const TOTAL_ENERGIES_CITIES_URL = "https://apimobile.guzelenerji.com.tr/exapi/fuel_price_cities";
 const TOTAL_ENERGIES_PRICES_URL = "https://apimobile.guzelenerji.com.tr/exapi/fuel_prices";
+const RETRY_COUNT = 5;
+const RETRY_WAIT_MS = 30_000;
+const ADANA_CODE = "001";
 
 const PROVINCES = [
 	{ code: "001", name: "ADANA" },
@@ -627,7 +630,7 @@ async function fetchOpetPricesByProvince() {
 	return byProvince;
 }
 
-async function main() {
+async function buildOutputSnapshot() {
 	const shellByProvince = new Map();
 
 	for (const province of PROVINCES) {
@@ -748,7 +751,58 @@ async function main() {
 		provinces: result
 	};
 
-	await fs.writeFile("prices.json", JSON.stringify(output, null, 2), "utf8");
+	return output;
+}
+
+function sleep(ms) {
+	return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+function isFilledAmount(value) {
+	return Number.isFinite(value);
+}
+
+function isAdanaGasolineComplete(output) {
+	const adana = (output?.provinces || []).find((item) => item?.provinceCode === ADANA_CODE);
+	if (!adana?.prices) {
+		return false;
+	}
+
+	const brands = ["shell", "opet", "petrolOfisi", "totalEnergies"];
+	return brands.every((brand) => isFilledAmount(adana.prices?.[brand]?.gasolineAmount));
+}
+
+async function main() {
+	let output = null;
+
+	for (let attempt = 1; attempt <= RETRY_COUNT; attempt += 1) {
+		try {
+			console.log(`[INFO] Veri toplama denemesi ${attempt}/${RETRY_COUNT}`);
+			const candidate = await buildOutputSnapshot();
+
+			if (isAdanaGasolineComplete(candidate)) {
+				output = candidate;
+				console.log("[OK] ADANA gasoline kontrolu gecti.");
+				break;
+			}
+
+			console.warn("[WARN] ADANA gasoline tum firmalarda dolu degil.");
+		} catch (error) {
+			console.error(`[ERR] Deneme ${attempt} sirasinda hata: ${error.message}`);
+		}
+
+		if (attempt < RETRY_COUNT) {
+			console.log(`[INFO] ${RETRY_WAIT_MS / 1000} sn bekleniyor ve tekrar denenecek...`);
+			await sleep(RETRY_WAIT_MS);
+		}
+	}
+
+	if (!output) {
+		console.error("[ERR] ADANA gasoline kontrolu 5 denemede de basarisiz. Dosya yazilmadan cikiliyor.");
+		return;
+	}
+
+	await fs.writeFile("prices.json", JSON.stringify(output), "utf8");
 	console.log("prices.json yazildi.");
 
 	// allprices.json dosyasını güncelle (geçmiş veriler)
@@ -765,7 +819,7 @@ async function main() {
 	allPrices.push(output);
 
 	// allprices.json dosyasını kaydet
-	await fs.writeFile("allprices.json", JSON.stringify(allPrices, null, 2), "utf8");
+	await fs.writeFile("allprices.json", JSON.stringify(allPrices), "utf8");
 	console.log("allprices.json güncellendi.");
 }
 
